@@ -1,0 +1,1 @@
+{"step": "rag/single/Q2", "model": "gemini-3.7-flash", "reply": "{\n  \"answer\": \"Since August 2024, the BSP has reduced the policy rate by 175 bps and the reserve requirement ratio (RRR) by 450 bps.\",\n  \"cited_chunks\": [\n    \"S04-02\"\n  ],\n  \"answerable\": true\n}", "tokens": 74, "seconds": 5.01, "saved": "2026-11-04T20:13:39.753877+00:00"}

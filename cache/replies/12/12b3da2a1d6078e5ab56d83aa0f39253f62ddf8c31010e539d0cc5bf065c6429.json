@@ -1,0 +1,1 @@
+{"step": "rag_grade/multi/Q10", "model": "gemini-3.6-flash", "reply": "{\"faithfulness\": 5, \"completeness\": 5, \"relevance\": 5, \"note\": \"The context does not contain information about IMF recommendations on loan-to-value limits, so the response correctly states that it cannot answer.\"}", "tokens": 53, "seconds": 2.43, "saved": "2026-11-04T19:17:50.546592+00:00"}

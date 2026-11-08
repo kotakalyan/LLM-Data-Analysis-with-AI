@@ -1,0 +1,3209 @@
+{
+  "series": [
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2020",
+      "value": 16.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2021",
+      "value": 16.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2022",
+      "value": 15.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2023",
+      "value": 16.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2024",
+      "value": 15.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2025Q2",
+      "value": 15.7,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 6.6,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 3.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 2.4,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 2.6,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 2.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 6.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 1.7,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 2.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T6",
+      "page": 48,
+      "year": "2029",
+      "value": 3.3,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T6",
+      "page": 48,
+      "year": "2030",
+      "value": 3.2,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 3.9,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 2.9,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 1.7,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": -2.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": -4.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": -3.8,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": -3.4,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": -3.1,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": -2.9,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 60.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 60.7,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 62.2,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 62.7,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 62.5,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 61.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T6",
+      "page": 48,
+      "year": "2029",
+      "value": 60.7,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T6",
+      "page": 48,
+      "year": "2030",
+      "value": 59.6,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2020",
+      "value": 3.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2021",
+      "value": 4.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2022",
+      "value": 3.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2023",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2024",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2025Q2",
+      "value": 3.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 6.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 5.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "text",
+      "page": 51,
+      "year": "2025",
+      "value": 4.75,
+      "status": "level on October 10",
+      "source": "text"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T4",
+      "page": 46,
+      "year": "2019",
+      "value": 7.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T4",
+      "page": 46,
+      "year": "2020",
+      "value": -0.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T4",
+      "page": 46,
+      "year": "2021",
+      "value": 3.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T4",
+      "page": 46,
+      "year": "2022",
+      "value": 11.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 9.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 12.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 10.1,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 8.5,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 9.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 9.7,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2020",
+      "value": 8.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2021",
+      "value": 8.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2022",
+      "value": 7.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2023",
+      "value": 7.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2024",
+      "value": 7.4,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2025Q2",
+      "value": 7.6,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 5.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 5.7,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 5.4,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 5.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 6.1,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T6",
+      "page": 48,
+      "year": "2029",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T6",
+      "page": 48,
+      "year": "2030",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2020",
+      "value": 15.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2021",
+      "value": 15.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2022",
+      "value": 14.4,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2023",
+      "value": 15.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2024",
+      "value": 14.9,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2025Q2",
+      "value": 14.9,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 4.4,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 3.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 3.9,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 3.9,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 3.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 3.8,
+      "status": "projection",
+      "source": "table"
+    }
+  ],
+  "all_readings": [
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2023",
+      "value": 5.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2024",
+      "value": 5.7,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2025",
+      "value": 5.4,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2026",
+      "value": 5.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2027",
+      "value": 6.1,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2028",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 5.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 5.7,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 5.4,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 5.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 6.1,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T6",
+      "page": 48,
+      "year": "2024",
+      "value": 5.7,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T6",
+      "page": 48,
+      "year": "2025",
+      "value": 5.4,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T6",
+      "page": 48,
+      "year": "2026",
+      "value": 5.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T6",
+      "page": 48,
+      "year": "2027",
+      "value": 6.1,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T6",
+      "page": 48,
+      "year": "2028",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T6",
+      "page": 48,
+      "year": "2029",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "real_gdp_growth",
+      "label": "Real GDP growth",
+      "table": "T6",
+      "page": 48,
+      "year": "2030",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 5,
+      "year": "2023",
+      "value": 6.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 5,
+      "year": "2024",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 5,
+      "year": "2025",
+      "value": 1.7,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 5,
+      "year": "2026",
+      "value": 2.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 5,
+      "year": "2027",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 5,
+      "year": "2028",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 6.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 1.7,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 2.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T6",
+      "page": 48,
+      "year": "2024",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T6",
+      "page": 48,
+      "year": "2025",
+      "value": 1.7,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T6",
+      "page": 48,
+      "year": "2026",
+      "value": 2.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T6",
+      "page": 48,
+      "year": "2027",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T6",
+      "page": 48,
+      "year": "2028",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T6",
+      "page": 48,
+      "year": "2029",
+      "value": 3.3,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_average",
+      "label": "CPI inflation, period average",
+      "table": "T6",
+      "page": 48,
+      "year": "2030",
+      "value": 3.2,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 5,
+      "year": "2023",
+      "value": 3.9,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 5,
+      "year": "2024",
+      "value": 2.9,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 5,
+      "year": "2025",
+      "value": 1.7,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 5,
+      "year": "2026",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 5,
+      "year": "2027",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 5,
+      "year": "2028",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 3.9,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 2.9,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 1.7,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "cpi_end_period",
+      "label": "CPI inflation, end of period",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 5,
+      "year": "2023",
+      "value": 6.6,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 5,
+      "year": "2024",
+      "value": 3.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 5,
+      "year": "2025",
+      "value": 2.4,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 5,
+      "year": "2026",
+      "value": 2.6,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 5,
+      "year": "2027",
+      "value": 2.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 5,
+      "year": "2028",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 6.6,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 3.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 2.4,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 2.6,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 2.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "core_cpi",
+      "label": "Core CPI inflation",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 5,
+      "year": "2023",
+      "value": 4.4,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 5,
+      "year": "2024",
+      "value": 3.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 5,
+      "year": "2025",
+      "value": 3.9,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 5,
+      "year": "2026",
+      "value": 3.9,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 5,
+      "year": "2027",
+      "value": 3.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 5,
+      "year": "2028",
+      "value": 3.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 4.4,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 3.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 3.9,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 3.9,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 3.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "unemployment",
+      "label": "Unemployment rate",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 3.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 5,
+      "year": "2023",
+      "value": 6.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 5,
+      "year": "2024",
+      "value": 5.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 5,
+      "year": "2025",
+      "value": NaN,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 5,
+      "year": "2026",
+      "value": NaN,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 5,
+      "year": "2027",
+      "value": NaN,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 5,
+      "year": "2028",
+      "value": NaN,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 6.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 5.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": NaN,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": NaN,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": NaN,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": NaN,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2023",
+      "value": 9.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2024",
+      "value": 12.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2025",
+      "value": 10.1,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2026",
+      "value": 8.5,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2027",
+      "value": 9.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 5,
+      "year": "2028",
+      "value": 9.7,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 9.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 12.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 10.1,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 8.5,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 9.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 9.7,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T4",
+      "page": 46,
+      "year": "2019",
+      "value": 7.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T4",
+      "page": 46,
+      "year": "2020",
+      "value": -0.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T4",
+      "page": 46,
+      "year": "2021",
+      "value": 3.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T4",
+      "page": 46,
+      "year": "2022",
+      "value": 11.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T4",
+      "page": 46,
+      "year": "2023",
+      "value": 9.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "private_credit_growth",
+      "label": "Credit to private sector, growth",
+      "table": "T4",
+      "page": 46,
+      "year": "2024",
+      "value": 12.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2023",
+      "value": 60.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2024",
+      "value": 60.7,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2025",
+      "value": 62.2,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2026",
+      "value": 62.7,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2027",
+      "value": 62.5,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2028",
+      "value": 61.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": 60.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": 60.7,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": 62.2,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": 62.7,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": 62.5,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": 61.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T6",
+      "page": 48,
+      "year": "2024",
+      "value": 60.7,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T6",
+      "page": 48,
+      "year": "2025",
+      "value": 62.2,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T6",
+      "page": 48,
+      "year": "2026",
+      "value": 62.7,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T6",
+      "page": 48,
+      "year": "2027",
+      "value": 62.5,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T6",
+      "page": 48,
+      "year": "2028",
+      "value": 61.8,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T6",
+      "page": 48,
+      "year": "2029",
+      "value": 60.7,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "ng_debt",
+      "label": "National government debt, % of GDP",
+      "table": "T6",
+      "page": 48,
+      "year": "2030",
+      "value": 59.6,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2023",
+      "value": -2.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2024",
+      "value": -4.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2025",
+      "value": -3.8,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2026",
+      "value": -3.4,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2027",
+      "value": -3.1,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 5,
+      "year": "2028",
+      "value": -2.9,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2023",
+      "value": -2.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2024",
+      "value": -4.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2025",
+      "value": -3.8,
+      "status": "estimate",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2026",
+      "value": -3.4,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2027",
+      "value": -3.1,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "current_account",
+      "label": "Current account, % of GDP",
+      "table": "T1",
+      "page": 43,
+      "year": "2028",
+      "value": -2.9,
+      "status": "projection",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2020",
+      "value": 3.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2021",
+      "value": 4.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2022",
+      "value": 3.1,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2023",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2024",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "npl_ratio",
+      "label": "NPL ratio, banks",
+      "table": "T7",
+      "page": 49,
+      "year": "2025Q2",
+      "value": 3.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2020",
+      "value": 15.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2021",
+      "value": 15.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2022",
+      "value": 14.4,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2023",
+      "value": 15.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2024",
+      "value": 14.9,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "tier1_ratio",
+      "label": "Tier 1 capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2025Q2",
+      "value": 14.9,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2020",
+      "value": 16.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2021",
+      "value": 16.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2022",
+      "value": 15.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2023",
+      "value": 16.3,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2024",
+      "value": 15.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "capital_ratio",
+      "label": "Regulatory capital to RWA",
+      "table": "T7",
+      "page": 49,
+      "year": "2025Q2",
+      "value": 15.7,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2020",
+      "value": 8.0,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2021",
+      "value": 8.2,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2022",
+      "value": 7.8,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2023",
+      "value": 7.5,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2024",
+      "value": 7.4,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "re_loan_share",
+      "label": "Residential real estate loans, % of loans",
+      "table": "T7",
+      "page": 49,
+      "year": "2025Q2",
+      "value": 7.6,
+      "status": "actual",
+      "source": "table"
+    },
+    {
+      "series": "policy_rate",
+      "label": "BSP policy rate (RRP)",
+      "table": "text",
+      "page": 51,
+      "year": "2025",
+      "value": 4.75,
+      "status": "level on October 10",
+      "source": "text"
+    }
+  ],
+  "cross_checks": [
+    {
+      "series": "core_cpi",
+      "year": "2023",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "core_cpi",
+      "year": "2024",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "core_cpi",
+      "year": "2025",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "core_cpi",
+      "year": "2026",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "core_cpi",
+      "year": "2027",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "core_cpi",
+      "year": "2028",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "cpi_average",
+      "year": "2023",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "cpi_average",
+      "year": "2024",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "cpi_average",
+      "year": "2025",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "cpi_average",
+      "year": "2026",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "cpi_average",
+      "year": "2027",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "cpi_average",
+      "year": "2028",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "cpi_end_period",
+      "year": "2023",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "cpi_end_period",
+      "year": "2024",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "cpi_end_period",
+      "year": "2025",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "cpi_end_period",
+      "year": "2026",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "cpi_end_period",
+      "year": "2027",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "cpi_end_period",
+      "year": "2028",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "current_account",
+      "year": "2023",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "current_account",
+      "year": "2024",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "current_account",
+      "year": "2025",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "current_account",
+      "year": "2026",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "current_account",
+      "year": "2027",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "current_account",
+      "year": "2028",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "ng_debt",
+      "year": "2023",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "ng_debt",
+      "year": "2024",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "ng_debt",
+      "year": "2025",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "ng_debt",
+      "year": "2026",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "ng_debt",
+      "year": "2027",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "ng_debt",
+      "year": "2028",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "policy_rate",
+      "year": "2023",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "policy_rate",
+      "year": "2024",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "private_credit_growth",
+      "year": "2023",
+      "sources": "T1 p.5, T1 p.43, T4 p.46",
+      "agree": true
+    },
+    {
+      "series": "private_credit_growth",
+      "year": "2024",
+      "sources": "T1 p.5, T1 p.43, T4 p.46",
+      "agree": true
+    },
+    {
+      "series": "private_credit_growth",
+      "year": "2025",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "private_credit_growth",
+      "year": "2026",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "private_credit_growth",
+      "year": "2027",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "private_credit_growth",
+      "year": "2028",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "real_gdp_growth",
+      "year": "2023",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "real_gdp_growth",
+      "year": "2024",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "real_gdp_growth",
+      "year": "2025",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "real_gdp_growth",
+      "year": "2026",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "real_gdp_growth",
+      "year": "2027",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "real_gdp_growth",
+      "year": "2028",
+      "sources": "T1 p.5, T1 p.43, T6 p.48",
+      "agree": true
+    },
+    {
+      "series": "unemployment",
+      "year": "2023",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "unemployment",
+      "year": "2024",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "unemployment",
+      "year": "2025",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "unemployment",
+      "year": "2026",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "unemployment",
+      "year": "2027",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    },
+    {
+      "series": "unemployment",
+      "year": "2028",
+      "sources": "T1 p.5, T1 p.43",
+      "agree": true
+    }
+  ],
+  "parse_notes": [
+    {
+      "series": "real_gdp_growth",
+      "table": "T1",
+      "page": 5,
+      "note": "ok"
+    },
+    {
+      "series": "real_gdp_growth",
+      "table": "T1",
+      "page": 43,
+      "note": "ok"
+    },
+    {
+      "series": "real_gdp_growth",
+      "table": "T6",
+      "page": 48,
+      "note": "ok"
+    },
+    {
+      "series": "cpi_average",
+      "table": "T1",
+      "page": 5,
+      "note": "ok"
+    },
+    {
+      "series": "cpi_average",
+      "table": "T1",
+      "page": 43,
+      "note": "ok"
+    },
+    {
+      "series": "cpi_average",
+      "table": "T6",
+      "page": 48,
+      "note": "ok"
+    },
+    {
+      "series": "cpi_end_period",
+      "table": "T1",
+      "page": 5,
+      "note": "ok"
+    },
+    {
+      "series": "cpi_end_period",
+      "table": "T1",
+      "page": 43,
+      "note": "ok"
+    },
+    {
+      "series": "core_cpi",
+      "table": "T1",
+      "page": 5,
+      "note": "ok"
+    },
+    {
+      "series": "core_cpi",
+      "table": "T1",
+      "page": 43,
+      "note": "ok"
+    },
+    {
+      "series": "unemployment",
+      "table": "T1",
+      "page": 5,
+      "note": "ok"
+    },
+    {
+      "series": "unemployment",
+      "table": "T1",
+      "page": 43,
+      "note": "ok"
+    },
+    {
+      "series": "policy_rate",
+      "table": "T1",
+      "page": 5,
+      "note": "ok"
+    },
+    {
+      "series": "policy_rate",
+      "table": "T1",
+      "page": 43,
+      "note": "ok"
+    },
+    {
+      "series": "private_credit_growth",
+      "table": "T1",
+      "page": 5,
+      "note": "ok"
+    },
+    {
+      "series": "private_credit_growth",
+      "table": "T1",
+      "page": 43,
+      "note": "ok"
+    },
+    {
+      "series": "private_credit_growth",
+      "table": "T4",
+      "page": 46,
+      "note": "ok"
+    },
+    {
+      "series": "ng_debt",
+      "table": "T1",
+      "page": 5,
+      "note": "ok"
+    },
+    {
+      "series": "ng_debt",
+      "table": "T1",
+      "page": 43,
+      "note": "ok"
+    },
+    {
+      "series": "ng_debt",
+      "table": "T6",
+      "page": 48,
+      "note": "ok"
+    },
+    {
+      "series": "current_account",
+      "table": "T1",
+      "page": 5,
+      "note": "ok"
+    },
+    {
+      "series": "current_account",
+      "table": "T1",
+      "page": 43,
+      "note": "ok"
+    },
+    {
+      "series": "npl_ratio",
+      "table": "T7",
+      "page": 49,
+      "note": "ok"
+    },
+    {
+      "series": "tier1_ratio",
+      "table": "T7",
+      "page": 49,
+      "note": "ok"
+    },
+    {
+      "series": "capital_ratio",
+      "table": "T7",
+      "page": 49,
+      "note": "ok"
+    },
+    {
+      "series": "re_loan_share",
+      "table": "T7",
+      "page": 49,
+      "note": "ok"
+    }
+  ],
+  "llm_trends": [
+    {
+      "name": "Real GDP",
+      "unit": "Annual percentage change",
+      "pdf_page": 43,
+      "points": [
+        {
+          "year": "2023",
+          "value": 5.5
+        },
+        {
+          "year": "2024",
+          "value": 5.7
+        },
+        {
+          "year": "2025",
+          "value": 5.4
+        },
+        {
+          "year": "2026",
+          "value": 5.8
+        },
+        {
+          "year": "2027",
+          "value": 6.1
+        },
+        {
+          "year": "2028",
+          "value": 6.0
+        }
+      ]
+    },
+    {
+      "name": "Consumer prices (period average)",
+      "unit": "Annual percentage change",
+      "pdf_page": 43,
+      "points": [
+        {
+          "year": "2023",
+          "value": 6.0
+        },
+        {
+          "year": "2024",
+          "value": 3.2
+        },
+        {
+          "year": "2025",
+          "value": 1.7
+        },
+        {
+          "year": "2026",
+          "value": 2.8
+        },
+        {
+          "year": "2027",
+          "value": 3.0
+        },
+        {
+          "year": "2028",
+          "value": 3.0
+        }
+      ]
+    },
+    {
+      "name": "Overnight reverse repo rate (policy rate)",
+      "unit": "percent",
+      "pdf_page": 43,
+      "points": [
+        {
+          "year": "2023",
+          "value": 6.5
+        },
+        {
+          "year": "2024",
+          "value": 5.8
+        }
+      ]
+    },
+    {
+      "name": "Claims on private sector (yoy growth rate)",
+      "unit": "Annual percentage change",
+      "pdf_page": 43,
+      "points": [
+        {
+          "year": "2023",
+          "value": 9.1
+        },
+        {
+          "year": "2024",
+          "value": 12.2
+        },
+        {
+          "year": "2025",
+          "value": 10.1
+        },
+        {
+          "year": "2026",
+          "value": 8.5
+        },
+        {
+          "year": "2027",
+          "value": 9.8
+        },
+        {
+          "year": "2028",
+          "value": 9.7
+        }
+      ]
+    },
+    {
+      "name": "National government gross debt",
+      "unit": "percent of GDP",
+      "pdf_page": 43,
+      "points": [
+        {
+          "year": "2023",
+          "value": 60.1
+        },
+        {
+          "year": "2024",
+          "value": 60.7
+        },
+        {
+          "year": "2025",
+          "value": 62.2
+        },
+        {
+          "year": "2026",
+          "value": 62.7
+        },
+        {
+          "year": "2027",
+          "value": 62.5
+        },
+        {
+          "year": "2028",
+          "value": 61.8
+        }
+      ]
+    },
+    {
+      "name": "Regulatory capital to risk-weighted assets",
+      "unit": "percent",
+      "pdf_page": 49,
+      "points": [
+        {
+          "year": "2020",
+          "value": 16.3
+        },
+        {
+          "year": "2021",
+          "value": 16.5
+        },
+        {
+          "year": "2022",
+          "value": 15.3
+        },
+        {
+          "year": "2023",
+          "value": 16.3
+        },
+        {
+          "year": "2024",
+          "value": 15.8
+        },
+        {
+          "year": "2025Q2",
+          "value": 15.7
+        }
+      ]
+    },
+    {
+      "name": "Nonperforming loans to total gross loans",
+      "unit": "percent",
+      "pdf_page": 49,
+      "points": [
+        {
+          "year": "2020",
+          "value": 3.5
+        },
+        {
+          "year": "2021",
+          "value": 4.0
+        },
+        {
+          "year": "2022",
+          "value": 3.1
+        },
+        {
+          "year": "2023",
+          "value": 3.2
+        },
+        {
+          "year": "2024",
+          "value": 3.2
+        },
+        {
+          "year": "2025Q2",
+          "value": 3.3
+        }
+      ]
+    },
+    {
+      "name": "Return on equity",
+      "unit": "percent",
+      "pdf_page": 49,
+      "points": [
+        {
+          "year": "2020",
+          "value": 7.6
+        },
+        {
+          "year": "2021",
+          "value": 10.4
+        },
+        {
+          "year": "2022",
+          "value": 15.4
+        },
+        {
+          "year": "2023",
+          "value": 13.0
+        },
+        {
+          "year": "2024",
+          "value": 12.9
+        },
+        {
+          "year": "2025Q2",
+          "value": 12.2
+        }
+      ]
+    }
+  ],
+  "llm_vs_print": [
+    {
+      "llm_name": "Real GDP",
+      "page": 43,
+      "row_found": true,
+      "points": 6,
+      "points_matching_print": 6
+    },
+    {
+      "llm_name": "Consumer prices (period average)",
+      "page": 43,
+      "row_found": true,
+      "points": 6,
+      "points_matching_print": 6
+    },
+    {
+      "llm_name": "Overnight reverse repo rate (policy rate)",
+      "page": 43,
+      "row_found": true,
+      "points": 2,
+      "points_matching_print": 2
+    },
+    {
+      "llm_name": "Claims on private sector (yoy growth rate)",
+      "page": 43,
+      "row_found": true,
+      "points": 6,
+      "points_matching_print": 6
+    },
+    {
+      "llm_name": "National government gross debt",
+      "page": 43,
+      "row_found": true,
+      "points": 6,
+      "points_matching_print": 6
+    },
+    {
+      "llm_name": "Regulatory capital to risk-weighted assets",
+      "page": 49,
+      "row_found": true,
+      "points": 6,
+      "points_matching_print": 6
+    },
+    {
+      "llm_name": "Nonperforming loans to total gross loans",
+      "page": 49,
+      "row_found": true,
+      "points": 6,
+      "points_matching_print": 6
+    },
+    {
+      "llm_name": "Return on equity",
+      "page": 49,
+      "row_found": true,
+      "points": 6,
+      "points_matching_print": 6
+    }
+  ],
+  "llm_point_accuracy": 1.0
+}

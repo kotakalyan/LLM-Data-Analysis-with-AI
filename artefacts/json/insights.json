@@ -1,0 +1,458 @@
+{
+  "strengths": [
+    {
+      "point": "The banking system remains well-capitalized, liquid, and profitable with contained non-performing loans.",
+      "quote": "The banking system is well-capitalized, liquid, and profitable, supported by generally conservative lending standards and a stable deposit base.",
+      "pdf_page": 23,
+      "kind": "strength",
+      "id": "r1-S1",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        23
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 23 and supports the point as a banking sector strength.",
+      "kept": true
+    },
+    {
+      "point": "Coordinated monetary policy and government interventions successfully brought inflation down into target.",
+      "quote": "Inflation declined amid a restrictive monetary policy stance and concerted efforts by the government to reduce food prices.",
+      "pdf_page": 2,
+      "kind": "strength",
+      "id": "r1-S2",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        2,
+        10
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote appears on page 2 and supports successful disinflation as an economic strength.",
+      "kept": true
+    },
+    {
+      "point": "The Philippines accomplished a key milestone by exiting the FATF grey list in 2025.",
+      "quote": "In 2025, the Philippines successfully exited the Financial Action Task Force (FATF) grey list and was removed from the European Union list of high-risk jurisdictions",
+      "pdf_page": 26,
+      "kind": "strength",
+      "id": "r1-S3",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        26
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 26 and confirms an institutional achievement and strength.",
+      "kept": true
+    },
+    {
+      "point": "International reserves provide substantial coverage against short-term external debt and external shocks.",
+      "quote": "Gross international reserves stood at US$109.1 billion as of end-September 2025, lower than their peak in September 2024, but remained comfortable",
+      "pdf_page": 12,
+      "kind": "strength",
+      "id": "r1-S4",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        12
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote appears on page 12 and supports reserve adequacy as an external strength.",
+      "kept": true
+    },
+    {
+      "point": "The economy possesses robust medium-term potential growth supported by structural reforms.",
+      "quote": "Potential growth is estimated to be around 6.0 percent over the medium term.",
+      "pdf_page": 3,
+      "kind": "strength",
+      "id": "r1-S5",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        3
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 3 and confirms robust potential medium-term growth.",
+      "kept": true
+    },
+    {
+      "point": "Debt sustainability assessments indicate low overall risk of sovereign debt distress.",
+      "quote": "The overall assessment under the Sovereign Risk and Debt Sustainability Framework (SRDSF) indicates low risk of sovereign stress",
+      "pdf_page": 17,
+      "kind": "strength",
+      "id": "r1-S6",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        17
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 17 and confirms low sovereign risk as a strength.",
+      "kept": true
+    },
+    {
+      "point": "Recent legal reforms liberalized public services to allow full foreign ownership.",
+      "quote": "Open up most public services to full foreign ownership. Attract foreign investment and increase competitiveness and productivity.",
+      "pdf_page": 29,
+      "kind": "strength",
+      "id": "r1-S7",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        29
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote appears on page 29 and correctly identifies legal reform as a structural strength.",
+      "kept": true
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "point": "Escalating external tariffs pose headwinds to national exports and investment activity.",
+      "quote": "Increasing tariffs are projected to weigh on exports and investment, while the anticipated slower growth of government expenditures is expected to more than offset an increase in private consumption.",
+      "pdf_page": 13,
+      "kind": "vulnerability",
+      "id": "r1-V1",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        13
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 13 and describes an external tariff vulnerability weighing on growth.",
+      "kept": true
+    },
+    {
+      "point": "Frequent typhoons cause recurring annual macroeconomic damage, particularly harming agriculture and lifting prices.",
+      "quote": "Typhoons are the most frequent natural disasters in the Philippines, causing recurring economic losses - about 0.2-0.3 percent of GDP annually, mainly impacting agriculture - and contributing to higher inflation.",
+      "pdf_page": 14,
+      "kind": "vulnerability",
+      "id": "r1-V2",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        14
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 14 and supports typhoon impacts as a recurring structural vulnerability.",
+      "kept": true
+    },
+    {
+      "point": "Corruption scandals concerning flood-control projects threaten to undermine investor sentiment and public construction.",
+      "quote": "In July 2025, President Marcos disclosed allegations of corruption in publicly funded flood-control projects and formed an independent investigation commission.",
+      "pdf_page": 10,
+      "kind": "vulnerability",
+      "id": "r1-V3",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        10
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 10 and supports flood-control corruption allegations as a vulnerability.",
+      "kept": true
+    },
+    {
+      "point": "The external position remains weaker than implied by fundamentals with persistent current account deficits.",
+      "quote": "The Philippines' external position in 2024 is assessed to be weaker than the level implied by fundamentals and desirable policies.",
+      "pdf_page": 12,
+      "kind": "vulnerability",
+      "id": "r1-V4",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        12
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote appears on page 12 and supports the assessment of external position weakness.",
+      "kept": true
+    },
+    {
+      "point": "Commercial and residential property vacancy rates remain persistently high across several regions.",
+      "quote": "Commercial and residential vacancy rates remain persistently high in some regions and segments, reflecting still-elevated mortgage rates, supply overhang from the pre-pandemic construction boom",
+      "pdf_page": 24,
+      "kind": "vulnerability",
+      "id": "r1-V5",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        24
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 24 and supports high vacancy rates as a financial vulnerability.",
+      "kept": true
+    },
+    {
+      "point": "Fast-growing consumer credit and NBFI lending pose risks given low household savings.",
+      "quote": "Household debt, buoyed by robust growth in real estate loans, rapid growth in bank credit card and salary loans, and increased credit access through NBFIs and digital finance warrants close monitoring",
+      "pdf_page": 24,
+      "kind": "vulnerability",
+      "id": "r1-V6",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        24
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 24 and confirms growing household credit risks as a vulnerability.",
+      "kept": true
+    },
+    {
+      "point": "Substantial underemployment indicates lingering slack in the domestic labor market.",
+      "quote": "Unemployment has been low, averaging 4.1 percent in 2025Q1-Q3, but there are indications of slack in the labor market, with high underemployment",
+      "pdf_page": 10,
+      "kind": "vulnerability",
+      "id": "r1-V7",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        10
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 10 and supports labor market underemployment as a domestic vulnerability.",
+      "kept": true
+    }
+  ],
+  "all_checked_items": [
+    {
+      "point": "The banking system remains well-capitalized, liquid, and profitable with contained non-performing loans.",
+      "quote": "The banking system is well-capitalized, liquid, and profitable, supported by generally conservative lending standards and a stable deposit base.",
+      "pdf_page": 23,
+      "kind": "strength",
+      "id": "r1-S1",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        23
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 23 and supports the point as a banking sector strength.",
+      "kept": true
+    },
+    {
+      "point": "Coordinated monetary policy and government interventions successfully brought inflation down into target.",
+      "quote": "Inflation declined amid a restrictive monetary policy stance and concerted efforts by the government to reduce food prices.",
+      "pdf_page": 2,
+      "kind": "strength",
+      "id": "r1-S2",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        2,
+        10
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote appears on page 2 and supports successful disinflation as an economic strength.",
+      "kept": true
+    },
+    {
+      "point": "The Philippines accomplished a key milestone by exiting the FATF grey list in 2025.",
+      "quote": "In 2025, the Philippines successfully exited the Financial Action Task Force (FATF) grey list and was removed from the European Union list of high-risk jurisdictions",
+      "pdf_page": 26,
+      "kind": "strength",
+      "id": "r1-S3",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        26
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 26 and confirms an institutional achievement and strength.",
+      "kept": true
+    },
+    {
+      "point": "International reserves provide substantial coverage against short-term external debt and external shocks.",
+      "quote": "Gross international reserves stood at US$109.1 billion as of end-September 2025, lower than their peak in September 2024, but remained comfortable",
+      "pdf_page": 12,
+      "kind": "strength",
+      "id": "r1-S4",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        12
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote appears on page 12 and supports reserve adequacy as an external strength.",
+      "kept": true
+    },
+    {
+      "point": "The economy possesses robust medium-term potential growth supported by structural reforms.",
+      "quote": "Potential growth is estimated to be around 6.0 percent over the medium term.",
+      "pdf_page": 3,
+      "kind": "strength",
+      "id": "r1-S5",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        3
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 3 and confirms robust potential medium-term growth.",
+      "kept": true
+    },
+    {
+      "point": "Debt sustainability assessments indicate low overall risk of sovereign debt distress.",
+      "quote": "The overall assessment under the Sovereign Risk and Debt Sustainability Framework (SRDSF) indicates low risk of sovereign stress",
+      "pdf_page": 17,
+      "kind": "strength",
+      "id": "r1-S6",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        17
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 17 and confirms low sovereign risk as a strength.",
+      "kept": true
+    },
+    {
+      "point": "Recent legal reforms liberalized public services to allow full foreign ownership.",
+      "quote": "Open up most public services to full foreign ownership. Attract foreign investment and increase competitiveness and productivity.",
+      "pdf_page": 29,
+      "kind": "strength",
+      "id": "r1-S7",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        29
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote appears on page 29 and correctly identifies legal reform as a structural strength.",
+      "kept": true
+    },
+    {
+      "point": "Escalating external tariffs pose headwinds to national exports and investment activity.",
+      "quote": "Increasing tariffs are projected to weigh on exports and investment, while the anticipated slower growth of government expenditures is expected to more than offset an increase in private consumption.",
+      "pdf_page": 13,
+      "kind": "vulnerability",
+      "id": "r1-V1",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        13
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 13 and describes an external tariff vulnerability weighing on growth.",
+      "kept": true
+    },
+    {
+      "point": "Frequent typhoons cause recurring annual macroeconomic damage, particularly harming agriculture and lifting prices.",
+      "quote": "Typhoons are the most frequent natural disasters in the Philippines, causing recurring economic losses - about 0.2-0.3 percent of GDP annually, mainly impacting agriculture - and contributing to higher inflation.",
+      "pdf_page": 14,
+      "kind": "vulnerability",
+      "id": "r1-V2",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        14
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 14 and supports typhoon impacts as a recurring structural vulnerability.",
+      "kept": true
+    },
+    {
+      "point": "Corruption scandals concerning flood-control projects threaten to undermine investor sentiment and public construction.",
+      "quote": "In July 2025, President Marcos disclosed allegations of corruption in publicly funded flood-control projects and formed an independent investigation commission.",
+      "pdf_page": 10,
+      "kind": "vulnerability",
+      "id": "r1-V3",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        10
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 10 and supports flood-control corruption allegations as a vulnerability.",
+      "kept": true
+    },
+    {
+      "point": "The external position remains weaker than implied by fundamentals with persistent current account deficits.",
+      "quote": "The Philippines' external position in 2024 is assessed to be weaker than the level implied by fundamentals and desirable policies.",
+      "pdf_page": 12,
+      "kind": "vulnerability",
+      "id": "r1-V4",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        12
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote appears on page 12 and supports the assessment of external position weakness.",
+      "kept": true
+    },
+    {
+      "point": "Commercial and residential property vacancy rates remain persistently high across several regions.",
+      "quote": "Commercial and residential vacancy rates remain persistently high in some regions and segments, reflecting still-elevated mortgage rates, supply overhang from the pre-pandemic construction boom",
+      "pdf_page": 24,
+      "kind": "vulnerability",
+      "id": "r1-V5",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        24
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 24 and supports high vacancy rates as a financial vulnerability.",
+      "kept": true
+    },
+    {
+      "point": "Fast-growing consumer credit and NBFI lending pose risks given low household savings.",
+      "quote": "Household debt, buoyed by robust growth in real estate loans, rapid growth in bank credit card and salary loans, and increased credit access through NBFIs and digital finance warrants close monitoring",
+      "pdf_page": 24,
+      "kind": "vulnerability",
+      "id": "r1-V6",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        24
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 24 and confirms growing household credit risks as a vulnerability.",
+      "kept": true
+    },
+    {
+      "point": "Substantial underemployment indicates lingering slack in the domestic labor market.",
+      "quote": "Unemployment has been low, averaging 4.1 percent in 2025Q1-Q3, but there are indications of slack in the labor market, with high underemployment",
+      "pdf_page": 10,
+      "kind": "vulnerability",
+      "id": "r1-V7",
+      "round": 1,
+      "quote_on_page": true,
+      "quote_found_on": [
+        10
+      ],
+      "judge_supported": true,
+      "judge_right_list": true,
+      "judge_reason": "The quote is verbatim on page 10 and supports labor market underemployment as a domestic vulnerability.",
+      "kept": true
+    }
+  ]
+}

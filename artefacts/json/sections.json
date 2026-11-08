@@ -1,0 +1,232 @@
+[
+  {
+    "sid": "S01",
+    "title": "Press release",
+    "kind": "press release",
+    "first_page": 2,
+    "last_page": 5,
+    "start": 1803,
+    "end": 12339,
+    "words": 1576
+  },
+  {
+    "sid": "S02",
+    "title": "Key issues and staff report front matter",
+    "kind": "staff report",
+    "first_page": 6,
+    "last_page": 8,
+    "start": 12339,
+    "end": 15544,
+    "words": 441
+  },
+  {
+    "sid": "S03",
+    "title": "Context",
+    "kind": "staff report",
+    "first_page": 9,
+    "last_page": 9,
+    "start": 15544,
+    "end": 17028,
+    "words": 204
+  },
+  {
+    "sid": "S04",
+    "title": "Recent economic developments",
+    "kind": "staff report",
+    "first_page": 10,
+    "last_page": 12,
+    "start": 17028,
+    "end": 21491,
+    "words": 671
+  },
+  {
+    "sid": "S05",
+    "title": "Outlook and risks",
+    "kind": "staff report",
+    "first_page": 13,
+    "last_page": 15,
+    "start": 21491,
+    "end": 26913,
+    "words": 803
+  },
+  {
+    "sid": "S06",
+    "title": "A. Fiscal Policies",
+    "kind": "staff report",
+    "first_page": 15,
+    "last_page": 20,
+    "start": 26913,
+    "end": 42990,
+    "words": 2382
+  },
+  {
+    "sid": "S07",
+    "title": "B. Monetary and Exchange Rate Policies",
+    "kind": "staff report",
+    "first_page": 21,
+    "last_page": 23,
+    "start": 42990,
+    "end": 49483,
+    "words": 968
+  },
+  {
+    "sid": "S08",
+    "title": "C. Financial Sector Policies",
+    "kind": "staff report",
+    "first_page": 23,
+    "last_page": 26,
+    "start": 49483,
+    "end": 56800,
+    "words": 1053
+  },
+  {
+    "sid": "S09",
+    "title": "D. Downside Risks and Contingent Policies",
+    "kind": "staff report",
+    "first_page": 27,
+    "last_page": 28,
+    "start": 56800,
+    "end": 59662,
+    "words": 428
+  },
+  {
+    "sid": "S10",
+    "title": "E. Structural Policies",
+    "kind": "staff report",
+    "first_page": 28,
+    "last_page": 31,
+    "start": 59662,
+    "end": 69206,
+    "words": 1291
+  },
+  {
+    "sid": "S11",
+    "title": "Staff appraisal",
+    "kind": "staff report",
+    "first_page": 31,
+    "last_page": 32,
+    "start": 69206,
+    "end": 73609,
+    "words": 629
+  },
+  {
+    "sid": "S12",
+    "title": "Figures 1-10",
+    "kind": "figures",
+    "first_page": 33,
+    "last_page": 42,
+    "start": 73609,
+    "end": 79832,
+    "words": 907
+  },
+  {
+    "sid": "S13",
+    "title": "Statistical tables 1-8",
+    "kind": "tables",
+    "first_page": 43,
+    "last_page": 50,
+    "start": 79832,
+    "end": 91657,
+    "words": 1922
+  },
+  {
+    "sid": "S14",
+    "title": "Annex I. Implementation of Main Recommendations of the 2024 Article IV Consultation",
+    "kind": "annex",
+    "first_page": 51,
+    "last_page": 52,
+    "start": 91657,
+    "end": 97991,
+    "words": 900
+  },
+  {
+    "sid": "S15",
+    "title": "Annex II. External Sector Assessment",
+    "kind": "annex",
+    "first_page": 53,
+    "last_page": 55,
+    "start": 97991,
+    "end": 103379,
+    "words": 877
+  },
+  {
+    "sid": "S16",
+    "title": "Annex III. Risk Assessment Matrix",
+    "kind": "annex",
+    "first_page": 56,
+    "last_page": 57,
+    "start": 103379,
+    "end": 110950,
+    "words": 1043
+  },
+  {
+    "sid": "S17",
+    "title": "Annex IV. Sovereign Risk and Debt Sustainability Assessment",
+    "kind": "annex",
+    "first_page": 58,
+    "last_page": 65,
+    "start": 110950,
+    "end": 117160,
+    "words": 946
+  },
+  {
+    "sid": "S18",
+    "title": "Annex V. Integration of Capacity Development and Surveillance",
+    "kind": "annex",
+    "first_page": 66,
+    "last_page": 69,
+    "start": 117160,
+    "end": 128034,
+    "words": 1574
+  },
+  {
+    "sid": "S19",
+    "title": "Annex VI. Data Issues",
+    "kind": "annex",
+    "first_page": 70,
+    "last_page": 71,
+    "start": 128034,
+    "end": 137413,
+    "words": 1453
+  },
+  {
+    "sid": "S20",
+    "title": "Annex VII. Implementation of FSAP Recommendations",
+    "kind": "annex",
+    "first_page": 72,
+    "last_page": 76,
+    "start": 137413,
+    "end": 157285,
+    "words": 2859
+  },
+  {
+    "sid": "S21",
+    "title": "Informational annex",
+    "kind": "informational annex",
+    "first_page": 77,
+    "last_page": 80,
+    "start": 157285,
+    "end": 160212,
+    "words": 417
+  },
+  {
+    "sid": "S22",
+    "title": "Statement by the IMF Staff Representative",
+    "kind": "statement",
+    "first_page": 81,
+    "last_page": 81,
+    "start": 160212,
+    "end": 163231,
+    "words": 437
+  },
+  {
+    "sid": "S23",
+    "title": "Statement by the Executive Director",
+    "kind": "statement",
+    "first_page": 82,
+    "last_page": 85,
+    "start": 163231,
+    "end": 173848,
+    "words": 1501
+  }
+]

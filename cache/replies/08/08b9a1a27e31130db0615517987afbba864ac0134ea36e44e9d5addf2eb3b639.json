@@ -1,0 +1,1 @@
+{"step": "rag/multi/Q10", "model": "gemini-3.7-flash", "reply": "{\"answer\":\"The provided passages do not contain information regarding what loan-to-value limit the IMF recommends for residential mortgages in the Philippines.\",\"cited_chunks\":[],\"answerable\":false}", "tokens": 39, "seconds": 4.37, "saved": "2026-11-04T20:16:35.251175+00:00"}

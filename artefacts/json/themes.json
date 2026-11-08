@@ -1,0 +1,731 @@
+{
+  "themes": [
+    {
+      "key": "inflation",
+      "theme": "Inflation & Prices",
+      "lexicon_hits": 118,
+      "llm_chunks": 27,
+      "lexicon_share": 0.209,
+      "llm_share": 0.205
+    },
+    {
+      "key": "rates_credit",
+      "theme": "Interest Rates & Credit",
+      "lexicon_hits": 111,
+      "llm_chunks": 25,
+      "lexicon_share": 0.196,
+      "llm_share": 0.189
+    },
+    {
+      "key": "housing",
+      "theme": "Housing & Real Estate",
+      "lexicon_hits": 40,
+      "llm_chunks": 8,
+      "lexicon_share": 0.071,
+      "llm_share": 0.061
+    },
+    {
+      "key": "bank_capital",
+      "theme": "Banking Capital & Liquidity",
+      "lexicon_hits": 45,
+      "llm_chunks": 21,
+      "lexicon_share": 0.08,
+      "llm_share": 0.159
+    },
+    {
+      "key": "sovereign_debt",
+      "theme": "Sovereign Debt",
+      "lexicon_hits": 81,
+      "llm_chunks": 21,
+      "lexicon_share": 0.143,
+      "llm_share": 0.159
+    },
+    {
+      "key": "labour",
+      "theme": "Labor Market Dynamics",
+      "lexicon_hits": 40,
+      "llm_chunks": 9,
+      "lexicon_share": 0.071,
+      "llm_share": 0.068
+    },
+    {
+      "key": "systemic",
+      "theme": "Systemic Financial Risk",
+      "lexicon_hits": 130,
+      "llm_chunks": 21,
+      "lexicon_share": 0.23,
+      "llm_share": 0.159
+    }
+  ],
+  "spearman_rho": 0.767,
+  "lexicon_terms": {
+    "inflation": [
+      "inflation",
+      "disinflation",
+      "consumer prices?",
+      "CPI",
+      "price stability",
+      "food prices?",
+      "core inflation",
+      "deflationary",
+      "inflation expectations"
+    ],
+    "rates_credit": [
+      "interest rates?",
+      "policy rates?",
+      "credit growth",
+      "lending",
+      "loans?",
+      "reverse repo",
+      "yields?",
+      "monetary easing",
+      "reserve requirement",
+      "RRR",
+      "credit"
+    ],
+    "housing": [
+      "real estate",
+      "housing",
+      "residential",
+      "property",
+      "mortgages?",
+      "vacanc(?:y|ies)",
+      "dwellings?",
+      "RPPI"
+    ],
+    "bank_capital": [
+      "capital adequacy",
+      "capital ratios?",
+      "capital buffers?",
+      "tier-1",
+      "regulatory capital",
+      "liquid assets",
+      "liquidity",
+      "provisioning",
+      "coverage ratio",
+      "well-capitalized",
+      "nonperforming",
+      "non-performing",
+      "NPLs?"
+    ],
+    "sovereign_debt": [
+      "public debt",
+      "government debt",
+      "debt sustainability",
+      "sovereign",
+      "fiscal deficit",
+      "gross financing needs?",
+      "debt-to-GDP",
+      "DSA",
+      "SRDSF",
+      "primary balance",
+      "fiscal consolidation",
+      "debt path",
+      "debt ratio"
+    ],
+    "labour": [
+      "unemployment",
+      "underemployment",
+      "labou?r force",
+      "labou?r market",
+      "employment",
+      "wages?",
+      "jobs?",
+      "workforce",
+      "skills?"
+    ],
+    "systemic": [
+      "systemic risks?",
+      "financial stability",
+      "macroprudential",
+      "contagion",
+      "interconnectedness",
+      "conglomerates?",
+      "NBFIs?",
+      "stress tests?",
+      "CCyB",
+      "countercyclical",
+      "crisis management",
+      "resolution",
+      "spillovers?"
+    ]
+  },
+  "lexicon_by_section": [
+    {
+      "sid": "S01",
+      "inflation": 13,
+      "rates_credit": 6,
+      "housing": 3,
+      "bank_capital": 0,
+      "sovereign_debt": 2,
+      "labour": 7,
+      "systemic": 4
+    },
+    {
+      "sid": "S02",
+      "inflation": 4,
+      "rates_credit": 1,
+      "housing": 1,
+      "bank_capital": 1,
+      "sovereign_debt": 2,
+      "labour": 0,
+      "systemic": 5
+    },
+    {
+      "sid": "S03",
+      "inflation": 3,
+      "rates_credit": 0,
+      "housing": 0,
+      "bank_capital": 0,
+      "sovereign_debt": 0,
+      "labour": 0,
+      "systemic": 0
+    },
+    {
+      "sid": "S04",
+      "inflation": 7,
+      "rates_credit": 5,
+      "housing": 0,
+      "bank_capital": 0,
+      "sovereign_debt": 1,
+      "labour": 4,
+      "systemic": 1
+    },
+    {
+      "sid": "S05",
+      "inflation": 9,
+      "rates_credit": 1,
+      "housing": 0,
+      "bank_capital": 0,
+      "sovereign_debt": 0,
+      "labour": 1,
+      "systemic": 0
+    },
+    {
+      "sid": "S06",
+      "inflation": 1,
+      "rates_credit": 3,
+      "housing": 2,
+      "bank_capital": 1,
+      "sovereign_debt": 25,
+      "labour": 1,
+      "systemic": 2
+    },
+    {
+      "sid": "S07",
+      "inflation": 29,
+      "rates_credit": 7,
+      "housing": 0,
+      "bank_capital": 3,
+      "sovereign_debt": 0,
+      "labour": 0,
+      "systemic": 0
+    },
+    {
+      "sid": "S08",
+      "inflation": 0,
+      "rates_credit": 19,
+      "housing": 11,
+      "bank_capital": 11,
+      "sovereign_debt": 0,
+      "labour": 0,
+      "systemic": 28
+    },
+    {
+      "sid": "S09",
+      "inflation": 4,
+      "rates_credit": 3,
+      "housing": 0,
+      "bank_capital": 1,
+      "sovereign_debt": 3,
+      "labour": 0,
+      "systemic": 0
+    },
+    {
+      "sid": "S10",
+      "inflation": 0,
+      "rates_credit": 0,
+      "housing": 1,
+      "bank_capital": 0,
+      "sovereign_debt": 0,
+      "labour": 6,
+      "systemic": 0
+    },
+    {
+      "sid": "S11",
+      "inflation": 8,
+      "rates_credit": 5,
+      "housing": 3,
+      "bank_capital": 3,
+      "sovereign_debt": 2,
+      "labour": 1,
+      "systemic": 7
+    },
+    {
+      "sid": "S12",
+      "inflation": 10,
+      "rates_credit": 11,
+      "housing": 4,
+      "bank_capital": 0,
+      "sovereign_debt": 1,
+      "labour": 10,
+      "systemic": 0
+    },
+    {
+      "sid": "S13",
+      "inflation": 4,
+      "rates_credit": 17,
+      "housing": 6,
+      "bank_capital": 11,
+      "sovereign_debt": 3,
+      "labour": 5,
+      "systemic": 0
+    },
+    {
+      "sid": "S14",
+      "inflation": 2,
+      "rates_credit": 5,
+      "housing": 0,
+      "bank_capital": 2,
+      "sovereign_debt": 2,
+      "labour": 2,
+      "systemic": 14
+    },
+    {
+      "sid": "S15",
+      "inflation": 1,
+      "rates_credit": 1,
+      "housing": 0,
+      "bank_capital": 0,
+      "sovereign_debt": 2,
+      "labour": 0,
+      "systemic": 0
+    },
+    {
+      "sid": "S16",
+      "inflation": 11,
+      "rates_credit": 8,
+      "housing": 0,
+      "bank_capital": 0,
+      "sovereign_debt": 7,
+      "labour": 0,
+      "systemic": 1
+    },
+    {
+      "sid": "S17",
+      "inflation": 0,
+      "rates_credit": 1,
+      "housing": 0,
+      "bank_capital": 1,
+      "sovereign_debt": 20,
+      "labour": 0,
+      "systemic": 1
+    },
+    {
+      "sid": "S18",
+      "inflation": 3,
+      "rates_credit": 1,
+      "housing": 5,
+      "bank_capital": 4,
+      "sovereign_debt": 4,
+      "labour": 0,
+      "systemic": 12
+    },
+    {
+      "sid": "S19",
+      "inflation": 1,
+      "rates_credit": 0,
+      "housing": 4,
+      "bank_capital": 0,
+      "sovereign_debt": 1,
+      "labour": 0,
+      "systemic": 1
+    },
+    {
+      "sid": "S20",
+      "inflation": 0,
+      "rates_credit": 11,
+      "housing": 0,
+      "bank_capital": 5,
+      "sovereign_debt": 0,
+      "labour": 0,
+      "systemic": 46
+    },
+    {
+      "sid": "S21",
+      "inflation": 0,
+      "rates_credit": 2,
+      "housing": 0,
+      "bank_capital": 0,
+      "sovereign_debt": 0,
+      "labour": 0,
+      "systemic": 0
+    },
+    {
+      "sid": "S22",
+      "inflation": 2,
+      "rates_credit": 0,
+      "housing": 0,
+      "bank_capital": 0,
+      "sovereign_debt": 1,
+      "labour": 0,
+      "systemic": 0
+    },
+    {
+      "sid": "S23",
+      "inflation": 6,
+      "rates_credit": 4,
+      "housing": 0,
+      "bank_capital": 2,
+      "sovereign_debt": 5,
+      "labour": 3,
+      "systemic": 8
+    }
+  ],
+  "chunk_tags": {
+    "S01-01": [
+      "inflation"
+    ],
+    "S01-02": [
+      "inflation",
+      "rates_credit"
+    ],
+    "S01-03": [
+      "inflation"
+    ],
+    "S01-04": [
+      "rates_credit",
+      "systemic"
+    ],
+    "S01-05": [],
+    "S01-06": [],
+    "S01-07": [],
+    "S01-08": [],
+    "S01-09": [],
+    "S02-01": [
+      "housing",
+      "inflation",
+      "rates_credit",
+      "systemic"
+    ],
+    "S02-02": [
+      "bank_capital",
+      "housing",
+      "systemic"
+    ],
+    "S03-01": [
+      "inflation"
+    ],
+    "S04-01": [
+      "inflation",
+      "labour"
+    ],
+    "S04-02": [
+      "inflation",
+      "rates_credit"
+    ],
+    "S04-03": [],
+    "S05-01": [
+      "inflation"
+    ],
+    "S05-02": [
+      "inflation"
+    ],
+    "S05-03": [
+      "inflation",
+      "labour"
+    ],
+    "S06-01": [],
+    "S06-02": [],
+    "S06-03": [],
+    "S06-04": [],
+    "S06-05": [],
+    "S06-06": [],
+    "S06-07": [],
+    "S06-08": [
+      "sovereign_debt"
+    ],
+    "S06-09": [
+      "sovereign_debt"
+    ],
+    "S06-10": [],
+    "S06-11": [],
+    "S06-12": [],
+    "S06-13": [],
+    "S06-14": [],
+    "S07-01": [
+      "inflation",
+      "rates_credit"
+    ],
+    "S07-02": [
+      "rates_credit"
+    ],
+    "S07-03": [
+      "inflation",
+      "rates_credit"
+    ],
+    "S07-04": [
+      "inflation",
+      "rates_credit"
+    ],
+    "S07-05": [
+      "inflation"
+    ],
+    "S08-01": [
+      "bank_capital",
+      "housing",
+      "rates_credit",
+      "systemic"
+    ],
+    "S08-02": [
+      "bank_capital",
+      "housing",
+      "systemic"
+    ],
+    "S08-03": [
+      "bank_capital",
+      "systemic"
+    ],
+    "S08-04": [
+      "bank_capital"
+    ],
+    "S08-05": [
+      "bank_capital",
+      "systemic"
+    ],
+    "S09-01": [
+      "inflation",
+      "rates_credit",
+      "sovereign_debt"
+    ],
+    "S09-02": [
+      "sovereign_debt"
+    ],
+    "S10-01": [],
+    "S10-02": [],
+    "S10-03": [],
+    "S10-04": [],
+    "S10-05": [],
+    "S10-06": [],
+    "S11-01": [
+      "inflation"
+    ],
+    "S11-02": [
+      "bank_capital",
+      "housing",
+      "inflation",
+      "rates_credit",
+      "systemic"
+    ],
+    "S11-03": [
+      "rates_credit",
+      "systemic"
+    ],
+    "S12-01": [
+      "inflation",
+      "labour"
+    ],
+    "S12-02": [
+      "labour",
+      "rates_credit"
+    ],
+    "S12-03": [
+      "housing",
+      "rates_credit",
+      "sovereign_debt"
+    ],
+    "S12-04": [
+      "labour"
+    ],
+    "S12-05": [],
+    "S13-01": [],
+    "S13-02": [
+      "labour"
+    ],
+    "S13-03": [
+      "housing",
+      "inflation",
+      "labour",
+      "rates_credit"
+    ],
+    "S13-04": [
+      "rates_credit",
+      "sovereign_debt"
+    ],
+    "S13-05": [],
+    "S13-06": [],
+    "S13-07": [
+      "rates_credit"
+    ],
+    "S13-08": [
+      "rates_credit"
+    ],
+    "S13-09": [],
+    "S13-10": [],
+    "S13-11": [],
+    "S13-12": [
+      "inflation"
+    ],
+    "S13-13": [
+      "rates_credit",
+      "sovereign_debt"
+    ],
+    "S13-14": [
+      "rates_credit"
+    ],
+    "S13-15": [
+      "bank_capital"
+    ],
+    "S13-16": [
+      "bank_capital",
+      "housing"
+    ],
+    "S13-17": [],
+    "S13-18": [
+      "sovereign_debt"
+    ],
+    "S14-01": [
+      "bank_capital",
+      "inflation",
+      "rates_credit",
+      "sovereign_debt"
+    ],
+    "S14-02": [
+      "bank_capital",
+      "systemic"
+    ],
+    "S14-03": [
+      "sovereign_debt"
+    ],
+    "S14-04": [
+      "labour"
+    ],
+    "S15-01": [
+      "sovereign_debt"
+    ],
+    "S15-02": [],
+    "S15-03": [],
+    "S15-04": [],
+    "S15-05": [],
+    "S16-01": [
+      "inflation"
+    ],
+    "S16-02": [
+      "systemic"
+    ],
+    "S16-03": [
+      "inflation",
+      "rates_credit",
+      "sovereign_debt"
+    ],
+    "S16-04": [
+      "rates_credit",
+      "sovereign_debt"
+    ],
+    "S16-05": [
+      "inflation"
+    ],
+    "S17-01": [
+      "sovereign_debt"
+    ],
+    "S17-02": [
+      "sovereign_debt"
+    ],
+    "S17-03": [
+      "sovereign_debt"
+    ],
+    "S17-04": [
+      "sovereign_debt"
+    ],
+    "S17-05": [
+      "sovereign_debt"
+    ],
+    "S18-01": [],
+    "S18-02": [
+      "inflation"
+    ],
+    "S18-03": [
+      "bank_capital",
+      "sovereign_debt",
+      "systemic"
+    ],
+    "S18-04": [
+      "sovereign_debt"
+    ],
+    "S18-05": [],
+    "S18-06": [],
+    "S18-07": [],
+    "S19-01": [],
+    "S19-02": [],
+    "S19-03": [],
+    "S19-04": [],
+    "S19-05": [],
+    "S19-06": [],
+    "S19-07": [],
+    "S20-01": [
+      "bank_capital",
+      "systemic"
+    ],
+    "S20-02": [
+      "bank_capital",
+      "systemic"
+    ],
+    "S20-03": [
+      "bank_capital",
+      "rates_credit",
+      "systemic"
+    ],
+    "S20-04": [
+      "systemic"
+    ],
+    "S20-05": [
+      "bank_capital",
+      "systemic"
+    ],
+    "S20-06": [],
+    "S20-07": [],
+    "S20-08": [],
+    "S20-09": [],
+    "S20-10": [],
+    "S20-11": [
+      "bank_capital"
+    ],
+    "S20-12": [
+      "bank_capital",
+      "systemic"
+    ],
+    "S20-13": [
+      "bank_capital",
+      "systemic"
+    ],
+    "S20-14": [
+      "bank_capital"
+    ],
+    "S20-15": [],
+    "S21-01": [],
+    "S21-02": [],
+    "S22-01": [],
+    "S22-02": [
+      "inflation"
+    ],
+    "S23-01": [],
+    "S23-02": [
+      "bank_capital"
+    ],
+    "S23-03": [
+      "sovereign_debt"
+    ],
+    "S23-04": [
+      "inflation",
+      "rates_credit",
+      "systemic"
+    ],
+    "S23-05": [
+      "systemic"
+    ],
+    "S23-06": [
+      "labour"
+    ],
+    "S23-07": []
+  }
+}

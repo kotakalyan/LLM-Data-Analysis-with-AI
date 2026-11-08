@@ -1,0 +1,1 @@
+{"step": "rag_grade/single/Q10", "model": "gemini-3.6-flash", "reply": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"relevance\": 5,\n  \"note\": \"The context does not contain information about the recommended loan-to-value limit, and the answer correctly states this limitation.\"\n}", "tokens": 60, "seconds": 2.67, "saved": "2026-11-04T20:14:54.431263+00:00"}

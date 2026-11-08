@@ -1,0 +1,1 @@
+{"step": "rag/single/Q10", "model": "gemini-3.7-flash", "reply": "{\"answer\": \"I am sorry, but the provided context does not contain information about any recommended loan-to-value limit for residential mortgages in the Philippines.\", \"cited_chunks\": [], \"answerable\": false}", "tokens": 44, "seconds": 4.15, "saved": "2026-11-04T19:16:38.278070+00:00"}

@@ -1,0 +1,464 @@
+{
+  "method": "four Python-generated query forms, Borda fusion, top 5 to the same writer and judge",
+  "variants": {
+    "Q1": {
+      "original": "What real GDP growth does IMF staff project for 2025 and 2026, and how were these projections revised after the 2025Q3 national accounts data?",
+      "keywords": "real GDP growth IMF staff project 2025 2026 projections revised 2025Q3 national accounts data",
+      "expanded": "real GDP growth IMF staff project 2025 2026 projections revised 2025Q3 national accounts data real GDP projection outlook",
+      "declarative": "The staff report states that real GDP growth IMF staff project 2025 2026 is"
+    },
+    "Q2": {
+      "original": "By how much has the BSP reduced the policy rate and the reserve requirement ratio since August 2024?",
+      "keywords": "BSP reduced policy rate reserve requirement ratio August 2024",
+      "expanded": "BSP reduced policy rate reserve requirement ratio August 2024 Bangko Sentral ng Pilipinas central bank overnight reverse repurchase rate monetary easing RRR",
+      "declarative": "The staff report states that BSP reduced policy rate reserve requirement ratio August is"
+    },
+    "Q3": {
+      "original": "What is the non-performing loan ratio of the banking system and how well are bad loans covered by provisions?",
+      "keywords": "non-performing loan ratio banking system well bad loans covered provisions",
+      "expanded": "non-performing loan ratio banking system well bad loans covered provisions nonperforming NPL asset quality NPL coverage ratio",
+      "declarative": "The staff report states that non-performing loan ratio banking system well bad loans is"
+    },
+    "Q4": {
+      "original": "What does IMF staff recommend for the countercyclical capital buffer and for the cap on commercial real estate exposures?",
+      "keywords": "IMF staff recommend countercyclical capital buffer cap commercial real estate exposures",
+      "expanded": "IMF staff recommend countercyclical capital buffer cap commercial real estate exposures CCyB macroprudential releasable buffers sectoral systemic risk buffer cap",
+      "declarative": "The staff report states that IMF staff recommend countercyclical capital buffer cap commercial is"
+    },
+    "Q5": {
+      "original": "What path does staff project for national government debt, and what deficit does the medium-term fiscal framework target for 2030?",
+      "keywords": "path staff project national government debt deficit medium-term fiscal framework target 2030",
+      "expanded": "path staff project national government debt deficit medium-term fiscal framework target 2030 debt-to-GDP public debt MTFF MTFF fiscal deficit target fiscal consolidation",
+      "declarative": "The staff report states that path staff project national government debt deficit medium-term is"
+    },
+    "Q6": {
+      "original": "How large are the yearly economic losses from typhoons, and by how much can climate shocks raise inflation?",
+      "keywords": "large yearly economic losses typhoons climate shocks raise inflation",
+      "expanded": "large yearly economic losses typhoons climate shocks raise inflation natural disasters climate shocks weather supply shocks consumer prices CPI",
+      "declarative": "The staff report states that large yearly economic losses typhoons climate shocks raise is"
+    },
+    "Q7": {
+      "original": "What tariff rate will Philippine goods exports face in the United States, and what direct growth impact does staff estimate?",
+      "keywords": "tariff rate Philippine goods exports face United States direct growth impact staff estimate",
+      "expanded": "tariff rate Philippine goods exports face United States direct growth impact staff estimate US tariffs trade barriers exports real GDP projection outlook",
+      "declarative": "The staff report states that tariff rate Philippine goods exports face United States is"
+    },
+    "Q8": {
+      "original": "What does the illustrative downside scenario include, and how much would it lower the output gap at its peak?",
+      "keywords": "illustrative downside scenario include lower output gap peak",
+      "expanded": "illustrative downside scenario include lower output gap peak adverse scenario WEO shocks QPM potential output",
+      "declarative": "The staff report states that illustrative downside scenario include lower output gap peak is"
+    },
+    "Q9": {
+      "original": "What is the overall risk of sovereign stress for the Philippines in the debt sustainability analysis?",
+      "keywords": "overall risk sovereign stress Philippines debt sustainability analysis",
+      "expanded": "overall risk sovereign stress Philippines debt sustainability analysis debt-to-GDP public debt MTFF SRDSF debt sustainability risk",
+      "declarative": "The staff report states that overall risk sovereign stress Philippines debt sustainability analysis is"
+    },
+    "Q10": {
+      "original": "What loan-to-value limit does the IMF recommend for residential mortgages in the Philippines?",
+      "keywords": "loan-to-value limit IMF recommend residential mortgages Philippines",
+      "expanded": "loan-to-value limit IMF recommend residential mortgages Philippines residential real estate loans housing LTV macroprudential limits",
+      "declarative": "The staff report states that loan-to-value limit IMF recommend residential mortgages Philippines is"
+    }
+  },
+  "results_multi": [
+    {
+      "qid": "Q1",
+      "variant": "multi",
+      "chunks": [
+        "S05-03",
+        "S01-02",
+        "S01-01",
+        "S06-02",
+        "S05-01"
+      ],
+      "pages": [
+        2,
+        3,
+        13,
+        14,
+        15,
+        16
+      ],
+      "gold_hit": true,
+      "gold_recall": 0.667,
+      "first_gold_rank": 2.0,
+      "fact_recall": 1.0,
+      "answerable_expected": true,
+      "answerable_said": true,
+      "answer": "IMF staff projects real GDP growth to slow to 5.1 percent in 2025 before picking up moderately to 5.6 percent in 2026. These figures represent a downward revision relative to previous forecasts (which projected 5.4 percent in 2025 and 5.8 percent in 2026) due to a sharper-than-expected slowdown in 2025Q3.",
+      "cited": [
+        "S01-01",
+        "S01-02",
+        "S05-01"
+      ],
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "judge_note": "The answer provides accurate, well-supported projections and clearly explains the downward revisions based on the provided text."
+    },
+    {
+      "qid": "Q2",
+      "variant": "multi",
+      "chunks": [
+        "S14-01",
+        "S07-01",
+        "S23-04",
+        "S07-04",
+        "S11-01"
+      ],
+      "pages": [
+        21,
+        22,
+        23,
+        31,
+        51,
+        83,
+        84
+      ],
+      "gold_hit": true,
+      "gold_recall": 0.667,
+      "first_gold_rank": 1.0,
+      "fact_recall": 0.0,
+      "answerable_expected": true,
+      "answerable_said": false,
+      "answer": "I am sorry, but the provided context does not contain information on how much the BSP has reduced the policy rate and the reserve requirement ratio since August 2024.",
+      "cited": [],
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "judge_note": "The response correctly states that the context does not contain sufficient information to answer the question about reductions since August 2024."
+    },
+    {
+      "qid": "Q3",
+      "variant": "multi",
+      "chunks": [
+        "S08-01",
+        "S13-15",
+        "S08-02",
+        "S20-01",
+        "S11-02"
+      ],
+      "pages": [
+        23,
+        24,
+        25,
+        31,
+        32,
+        48,
+        49,
+        72
+      ],
+      "gold_hit": true,
+      "gold_recall": 1.0,
+      "first_gold_rank": 1.0,
+      "fact_recall": 1.0,
+      "answerable_expected": true,
+      "answerable_said": true,
+      "answer": "The non-performing loan (NPL) ratio of the banking system is contained at 3.3 percent as of end-June 2025 (2025: Q2). Bad loans are adequately provisioned, with the NPL coverage ratio at 95.4 percent as of end-June 2025. In addition, the ratio of specific provisions to nonperforming loans stood at 73.7 percent in 2025: Q2.",
+      "cited": [
+        "S08-01",
+        "S13-15"
+      ],
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "judge_note": "The answer accurately and completely answers both parts of the question using data provided in the context."
+    },
+    {
+      "qid": "Q4",
+      "variant": "multi",
+      "chunks": [
+        "S08-02",
+        "S08-03",
+        "S14-02",
+        "S08-05",
+        "S20-01"
+      ],
+      "pages": [
+        24,
+        25,
+        26,
+        51,
+        52,
+        72
+      ],
+      "gold_hit": true,
+      "gold_recall": 0.333,
+      "first_gold_rank": 1.0,
+      "fact_recall": 1.0,
+      "answerable_expected": true,
+      "answerable_said": true,
+      "answer": "IMF staff recommends that the BSP consider moving towards a positive neutral level for the countercyclical capital buffer (CCyB) to help preempt the build-up of vulnerabilities and maintain releasable buffers when risks materialize. For commercial real estate exposures, staff recommends replacing the cap with a sectoral systemic risk buffer. This reform would help capture broader risks in the real estate sector and provide banks with price-based incentives to align their loan portfolios and capital buffers with systemic risk, provided implementation ensures there are no unintended changes in the macroprudential stance.",
+      "cited": [
+        "S08-02"
+      ],
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "judge_note": "The answer accurately and completely answers both parts of the question based on the provided text."
+    },
+    {
+      "qid": "Q5",
+      "variant": "multi",
+      "chunks": [
+        "S06-09",
+        "S06-02",
+        "S06-08",
+        "S18-04",
+        "S23-03"
+      ],
+      "pages": [
+        16,
+        17,
+        18,
+        67,
+        68,
+        82,
+        83
+      ],
+      "gold_hit": true,
+      "gold_recall": 0.6,
+      "first_gold_rank": 1.0,
+      "fact_recall": 1.0,
+      "answerable_expected": true,
+      "answerable_said": true,
+      "answer": "Staff projects national government debt to decline gradually to about 60 percent of GDP by 2030, supported by a favorable interest rate-growth differential. For 2030, the updated Medium-Term Fiscal Framework (MTFF) targets the fiscal deficit to reach 3.1 percent of GDP (with the primary deficit eliminated by 2030).",
+      "cited": [
+        "S06-08",
+        "S06-09"
+      ],
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "judge_note": "The answer accurately and completely addresses both parts of the question using information provided in the context."
+    },
+    {
+      "qid": "Q6",
+      "variant": "multi",
+      "chunks": [
+        "S07-03",
+        "S05-02",
+        "S22-02",
+        "S16-05",
+        "S07-02"
+      ],
+      "pages": [
+        13,
+        14,
+        21,
+        22,
+        23,
+        57,
+        81
+      ],
+      "gold_hit": true,
+      "gold_recall": 1.0,
+      "first_gold_rank": 1.0,
+      "fact_recall": 1.0,
+      "answerable_expected": true,
+      "answerable_said": true,
+      "answer": "Recurring economic losses from typhoons amount to about 0.2-0.3 percent of GDP annually (mainly impacting agriculture), with long-term climate models forecasting losses reaching up to 2 percent of GDP annually from more intense typhoons and sea level rise in the absence of adaptation measures. Additionally, staff analysis indicates that climate shocks increase inflation by up to 0.6 percentage points (annualized) in a typical year, operating through supply, demand, and expectation channels.",
+      "cited": [
+        "S05-02",
+        "S07-03"
+      ],
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "judge_note": "The answer accurately and completely addresses both parts of the question using details directly supported by the context."
+    },
+    {
+      "qid": "Q7",
+      "variant": "multi",
+      "chunks": [
+        "S04-02",
+        "S13-12",
+        "S13-05",
+        "S16-01",
+        "S15-04"
+      ],
+      "pages": [
+        11,
+        12,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        54,
+        55,
+        56
+      ],
+      "gold_hit": true,
+      "gold_recall": 1.0,
+      "first_gold_rank": 1.0,
+      "fact_recall": 1.0,
+      "answerable_expected": true,
+      "answerable_said": true,
+      "answer": "Philippine goods exports to the United States will be subject to a 19 percent tariff rate, which corresponds to an effective tariff rate of about 19 percent (with 20 percent of exports assumed to be currently exempt, such as semi-conductors, and some products subject to higher product-specific tariffs). Staff estimate the direct growth impact of higher US tariffs to be about 0.1-0.3 percentage points (ppt).",
+      "cited": [
+        "S04-02"
+      ],
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "judge_note": "The answer directly and accurately addresses both parts of the question using exact details provided in the context."
+    },
+    {
+      "qid": "Q8",
+      "variant": "multi",
+      "chunks": [
+        "S09-01",
+        "S09-02",
+        "S07-03",
+        "S16-02",
+        "S11-02"
+      ],
+      "pages": [
+        22,
+        23,
+        27,
+        28,
+        31,
+        32,
+        56
+      ],
+      "gold_hit": true,
+      "gold_recall": 1.0,
+      "first_gold_rank": 1.0,
+      "fact_recall": 1.0,
+      "answerable_expected": true,
+      "answerable_said": true,
+      "answer": "The illustrative downside scenario, aligned with Scenario A in Box 1.2 of the October 2025 World Economic Outlook, includes five layers: (i) higher tariffs and supply-chain disruptions; (ii) higher inflation expectations; (iii) higher global sovereign yields; (iv) tighter global financial conditions; and (v) lower global demand for US assets. At its peak, the output gap is reduced by 1.5 percent relative to the baseline.",
+      "cited": [
+        "S09-01"
+      ],
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "judge_note": "The answer accurately and completely details the layers of the downside scenario and the exact reduction in the output gap at its peak based on the context."
+    },
+    {
+      "qid": "Q9",
+      "variant": "multi",
+      "chunks": [
+        "S17-01",
+        "S17-02",
+        "S06-09",
+        "S13-17",
+        "S18-06"
+      ],
+      "pages": [
+        17,
+        18,
+        50,
+        58,
+        59,
+        68
+      ],
+      "gold_hit": true,
+      "gold_recall": 1.0,
+      "first_gold_rank": 1.0,
+      "fact_recall": 1.0,
+      "answerable_expected": true,
+      "answerable_said": true,
+      "answer": "The overall risk of sovereign stress for the Philippines is assessed as low. This reflects relatively low levels of vulnerability in the near-term and medium-term horizons, and a moderate level of vulnerability in the long-term horizon. Additionally, government securities held by the Bond Sinking Fund help reduce refinancing risk.",
+      "cited": [
+        "S17-01",
+        "S17-02",
+        "S06-09"
+      ],
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "judge_note": "The answer accurately and completely states that the overall risk of sovereign stress is low, directly citing the context details."
+    },
+    {
+      "qid": "Q10",
+      "variant": "multi",
+      "chunks": [
+        "S13-15",
+        "S13-11",
+        "S13-16",
+        "S13-05",
+        "S08-01"
+      ],
+      "pages": [
+        23,
+        24,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "gold_hit": null,
+      "gold_recall": NaN,
+      "first_gold_rank": NaN,
+      "fact_recall": NaN,
+      "answerable_expected": false,
+      "answerable_said": false,
+      "answer": "The provided passages do not contain information regarding what loan-to-value limit the IMF recommends for residential mortgages in the Philippines.",
+      "cited": [],
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "judge_note": "The response correctly states that the provided context does not contain the required information."
+    }
+  ],
+  "summary": {
+    "gold_recall": {
+      "single_mean": 0.844,
+      "multi_mean": 0.807,
+      "better": 0,
+      "same": 8,
+      "worse": 1
+    },
+    "fact_recall": {
+      "single_mean": 1.0,
+      "multi_mean": 0.889,
+      "better": 0,
+      "same": 8,
+      "worse": 1
+    },
+    "faithfulness": {
+      "single_mean": 5.0,
+      "multi_mean": 5.0,
+      "better": 0,
+      "same": 10,
+      "worse": 0
+    },
+    "completeness": {
+      "single_mean": 5.0,
+      "multi_mean": 5.0,
+      "better": 0,
+      "same": 10,
+      "worse": 0
+    },
+    "relevance": {
+      "single_mean": 5.0,
+      "multi_mean": 5.0,
+      "better": 0,
+      "same": 10,
+      "worse": 0
+    }
+  },
+  "shared_chunks": [
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    4,
+    5,
+    4,
+    5
+  ]
+}

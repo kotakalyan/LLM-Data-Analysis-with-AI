@@ -1,0 +1,77 @@
+{
+  "pdf_sha256": "e65a1158a09333e7dd7c43dfdadc8a3bfc7f279a66545d302993ff56086145d4",
+  "pages": 85,
+  "characters_raw": 184487,
+  "characters_clean": 173678,
+  "fixes": {
+    "soft line break joined": 2254,
+    "odd character replaced": 78,
+    "running header removed": 75,
+    "IMF footer removed": 73,
+    "contents leader line removed": 40,
+    "dash normalised": 29,
+    "split word rejoined (inside a line)": 21,
+    "number-only line removed (chart axis or year row)": 16,
+    "split word rejoined (across lines)": 14,
+    "line-end hyphen kept (compound word)": 12,
+    "bare page number removed": 7,
+    "split abbreviation rejoined": 2,
+    "split decimal rejoined": 2
+  },
+  "examples": {
+    "odd character replaced": [
+      "'’'",
+      "'’'",
+      "'’'",
+      "'’'"
+    ],
+    "dash normalised": [
+      "'—'",
+      "'–'",
+      "'–'",
+      "'–'"
+    ],
+    "bare page number removed": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "running header removed": [],
+    "IMF footer removed": [
+      "2 INTERNATIONAL MONETARY FUND",
+      "INTERNATIONAL MONETARY FUND 3",
+      "4 INTERNATIONAL MONETARY FUND",
+      "INTERNATIONAL MONETARY FUND 5"
+    ],
+    "split word rejoined (across lines)": [
+      "PR25|/418",
+      "dow|nward",
+      "2025Q|3",
+      "gov|ernment"
+    ],
+    "split word rejoined (inside a line)": [
+      "t he",
+      "non-in vestment",
+      "top-u p",
+      "e xemption"
+    ],
+    "split abbreviation rejoined": [
+      "e. g.",
+      "e. g."
+    ],
+    "split decimal rejoined": [
+      "period average) 6.6 3.0 2 .4 2.6 2.8 3.0",
+      "iabilitie 17.6 17.3 19. 8 22.2 23.2 25.0"
+    ],
+    "soft line break joined": [],
+    "number-only line removed (chart axis or year row)": [],
+    "contents leader line removed": [],
+    "line-end hyphen kept (compound word)": [
+      " driven by one-off remitt",
+      "rates in trade-oriented s",
+      "igher than pre-pandemic l",
+      "ering, counter-terrorism "
+    ]
+  }
+}

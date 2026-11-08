@@ -1,0 +1,180 @@
+{
+  "rows": [
+    {
+      "field": "country_name",
+      "extracted": "Philippines",
+      "hand": "Philippines",
+      "hand_page": 1,
+      "judge": "n/a",
+      "code_check": "n/a",
+      "matches_hand": true
+    },
+    {
+      "field": "gdp_growth_forecast_pct",
+      "extracted": 5.6,
+      "period": "2026 projection",
+      "page": 81,
+      "hand": 5.6,
+      "hand_page": 81,
+      "judge": "SUPPORTED",
+      "judge_reason": "The staff statement on PDF page 81 updates the 2026 real GDP growth projection to 5.6 percent (revised down from 5.8 percent).",
+      "code_check": "pass",
+      "matches_hand": true
+    },
+    {
+      "field": "headline_inflation_rate_pct",
+      "extracted": 1.7,
+      "period": "2025 estimate (Table 1)",
+      "page": 43,
+      "hand": 1.7,
+      "hand_page": 43,
+      "judge": "WRONG_DEFINITION (writer value; found by code, the judge said SUPPORTED)",
+      "code_check": "corrected from 3.2 (2024); new value checked against the printed Table 1 row: pass",
+      "matches_hand": true,
+      "judge_on_writer_value": "SUPPORTED",
+      "judge_reason_on_writer_value": "Period average headline consumer price inflation for the latest estimate year (2024) is 3.2 percent, as reported on PDF pages 5, 11, and 43."
+    },
+    {
+      "field": "central_bank_policy_rate_pct",
+      "extracted": 4.75,
+      "period": "as of October 10, 2025",
+      "page": 51,
+      "hand": 4.75,
+      "hand_page": 51,
+      "judge": "SUPPORTED",
+      "judge_reason": "PDF page 51 states that the BSP policy rate was lowered to 4.75 percent as of October 10, 2025.",
+      "code_check": "pass",
+      "matches_hand": true
+    },
+    {
+      "field": "non_performing_loan_ratio",
+      "extracted": 3.3,
+      "period": "end-June 2025",
+      "page": 23,
+      "hand": 3.3,
+      "hand_page": 49,
+      "judge": "SUPPORTED",
+      "judge_reason": "PDF pages 23 and 49 confirm the banking system non-performing loan ratio was 3.3 percent as of end-June 2025 (2025: Q2).",
+      "code_check": "pass",
+      "matches_hand": true
+    },
+    {
+      "field": "unemployment_rate_pct",
+      "extracted": 3.9,
+      "period": "2025 estimate (Table 1)",
+      "page": 43,
+      "hand": 3.8,
+      "hand_page": 43,
+      "judge": "WRONG_DEFINITION (writer value; found by code, the judge said SUPPORTED)",
+      "code_check": "corrected from 3.8 (2024); new value checked against the printed Table 1 row: pass",
+      "matches_hand": true,
+      "judge_on_writer_value": "SUPPORTED",
+      "judge_reason_on_writer_value": "Table 1 (PDF pages 5 and 43) reports the most recent estimated unemployment rate for 2024 as 3.8 percent of the labor force."
+    },
+    {
+      "field": "tier_1_capital_ratio",
+      "extracted": 14.9,
+      "period": "2025: Q2",
+      "page": 49,
+      "hand": 14.9,
+      "hand_page": 49,
+      "judge": "SUPPORTED",
+      "judge_reason": "Table 7 (PDF page 49) lists regulatory Tier 1 capital to risk-weighted assets at 14.9 percent for 2025: Q2.",
+      "code_check": "pass",
+      "matches_hand": true
+    }
+  ],
+  "hand_check": {
+    "country_name": {
+      "value": "Philippines",
+      "page": 1,
+      "where": "cover page"
+    },
+    "gdp_growth_forecast_pct": {
+      "value": 5.6,
+      "period": "2026 projection, revised",
+      "page": 81,
+      "also_accept": [
+        5.8
+      ],
+      "where": "Staff Statement para 3: 2026 'revised down from 5.8 to 5.6 percent' (also press release p.2). 5.8 is the staff report figure before the revision (Table 1 p.43)"
+    },
+    "headline_inflation_rate_pct": {
+      "value": 1.7,
+      "period": "2025, period average",
+      "page": 43,
+      "also_accept": [],
+      "where": "Table 1, Consumer prices (period average), 2025 Est.; text p.13 and press release p.2"
+    },
+    "central_bank_policy_rate_pct": {
+      "value": 4.75,
+      "period": "10 October 2025",
+      "page": 51,
+      "also_accept": [],
+      "where": "Annex I: 'lowered its policy rate by 100 bps from January 2025 to 4.75 percent as of October 10'; same level in the ED statement p.83. Table 1 p.43 shows 5.8 for end-2024 only"
+    },
+    "non_performing_loan_ratio": {
+      "value": 3.3,
+      "period": "end-June 2025",
+      "page": 49,
+      "also_accept": [],
+      "where": "Table 7, Nonperforming loans to total gross loans, 2025:Q2; text p.23"
+    },
+    "unemployment_rate_pct": {
+      "value": 3.8,
+      "period": "2024",
+      "page": 43,
+      "also_accept": [
+        3.9,
+        4.1
+      ],
+      "where": "Table 1, Unemployment rate 2024 = 3.8 (2025 estimate 3.9, 'Est.' column; text p.10 gives a 4.1 percent average for 2025Q1-Q3)"
+    },
+    "tier_1_capital_ratio": {
+      "value": 14.9,
+      "period": "end-June 2025",
+      "page": 49,
+      "also_accept": [],
+      "where": "Table 7, Regulatory Tier-1 capital to risk-weighted assets, 2025:Q2"
+    }
+  },
+  "judge_pages": [
+    1,
+    3,
+    5,
+    11,
+    13,
+    21,
+    22,
+    23,
+    24,
+    35,
+    43,
+    49,
+    51,
+    72,
+    81
+  ],
+  "period_fixes": [
+    {
+      "field": "headline_inflation_rate_pct",
+      "model_value": 3.2,
+      "model_period": "2024",
+      "model_page": 11,
+      "value": 1.7,
+      "period": "2025 estimate",
+      "page": 43,
+      "model_quote": "reduce inflation from 6.0 percent in 2023 to 3.2 percent in 2024."
+    },
+    {
+      "field": "unemployment_rate_pct",
+      "model_value": 3.8,
+      "model_period": "2024",
+      "model_page": 5,
+      "value": 3.9,
+      "period": "2025 estimate",
+      "page": 43,
+      "model_quote": "Unemployment rate (percent of labor force) 4.4 3.8 3.9 3.9 3.8 3.8"
+    }
+  ]
+}

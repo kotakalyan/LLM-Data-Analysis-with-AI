@@ -1,0 +1,1082 @@
+[
+  {
+    "step": "summary/S01",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 206,
+    "key": "86e743ff38"
+  },
+  {
+    "step": "summary/S02",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 108,
+    "key": "a85b17cd11"
+  },
+  {
+    "step": "summary/S03",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 127,
+    "key": "e12b5cedeb"
+  },
+  {
+    "step": "summary/S04",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 224,
+    "key": "b08ee6136a"
+  },
+  {
+    "step": "summary/S05",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 193,
+    "key": "e526319fb4"
+  },
+  {
+    "step": "summary/S06",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 188,
+    "key": "f60e05efe3"
+  },
+  {
+    "step": "summary/S07",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 153,
+    "key": "a8bd982dd9"
+  },
+  {
+    "step": "summary/S08",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 173,
+    "key": "5c21d943d2"
+  },
+  {
+    "step": "summary/S09",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 120,
+    "key": "a5c7f61d67"
+  },
+  {
+    "step": "summary/S10",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 119,
+    "key": "63a2dabe89"
+  },
+  {
+    "step": "summary/S11",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 141,
+    "key": "ec8ddaf364"
+  },
+  {
+    "step": "summary/S12",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 158,
+    "key": "04400382bc"
+  },
+  {
+    "step": "summary/S13",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 260,
+    "key": "9b6d2ec6b8"
+  },
+  {
+    "step": "summary/S14",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 208,
+    "key": "04d451dd5c"
+  },
+  {
+    "step": "summary/S15",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 206,
+    "key": "6c18cc947a"
+  },
+  {
+    "step": "summary/S16",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 138,
+    "key": "09314c09da"
+  },
+  {
+    "step": "summary/S17",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 172,
+    "key": "c5886fb18e"
+  },
+  {
+    "step": "summary/S18",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 207,
+    "key": "6a7e91256c"
+  },
+  {
+    "step": "summary/S19",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 134,
+    "key": "3ced011938"
+  },
+  {
+    "step": "summary/S20",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 206,
+    "key": "6717e8a720"
+  },
+  {
+    "step": "summary/S21",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 176,
+    "key": "1e8a1d2bcd"
+  },
+  {
+    "step": "summary/S22",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 198,
+    "key": "e6a8d671e2"
+  },
+  {
+    "step": "summary/S23",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 266,
+    "key": "f32348c565"
+  },
+  {
+    "step": "grade/S01/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "944da71124"
+  },
+  {
+    "step": "grade/S02/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 88,
+    "key": "df621b5c8a"
+  },
+  {
+    "step": "grade/S03/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "b153425cc4"
+  },
+  {
+    "step": "grade/S04/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 65,
+    "key": "5f3464d270"
+  },
+  {
+    "step": "grade/S05/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 86,
+    "key": "1f6a8c63e4"
+  },
+  {
+    "step": "rewrite/S05",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 180,
+    "key": "8051682cc8"
+  },
+  {
+    "step": "grade/S05/rewrite",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 26,
+    "key": "f1a59def68"
+  },
+  {
+    "step": "grade/S06/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "5145926100"
+  },
+  {
+    "step": "grade/S07/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 48,
+    "key": "2df632f75f"
+  },
+  {
+    "step": "grade/S08/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "09e0a29fae"
+  },
+  {
+    "step": "grade/S09/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "3ecea8e171"
+  },
+  {
+    "step": "grade/S10/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 74,
+    "key": "8fdb0b1a1b"
+  },
+  {
+    "step": "rewrite/S10",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 114,
+    "key": "bb34c198c2"
+  },
+  {
+    "step": "grade/S10/rewrite",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "ce7d4d6d6f"
+  },
+  {
+    "step": "grade/S11/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "6849b5e444"
+  },
+  {
+    "step": "grade/S12/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "1f727425dc"
+  },
+  {
+    "step": "grade/S13/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 26,
+    "key": "e77d75ac3e"
+  },
+  {
+    "step": "grade/S14/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 58,
+    "key": "c9fccef7d1"
+  },
+  {
+    "step": "rewrite/S14",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 198,
+    "key": "aeaf6d36a1"
+  },
+  {
+    "step": "grade/S14/rewrite",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 26,
+    "key": "ccb03dfdf1"
+  },
+  {
+    "step": "grade/S15/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 48,
+    "key": "f5a71bb4ea"
+  },
+  {
+    "step": "grade/S16/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "283ead00c2"
+  },
+  {
+    "step": "grade/S17/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 26,
+    "key": "d62afe2291"
+  },
+  {
+    "step": "grade/S18/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 86,
+    "key": "17c6bd9af8"
+  },
+  {
+    "step": "rewrite/S18",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 176,
+    "key": "25ca49807b"
+  },
+  {
+    "step": "grade/S18/rewrite",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 51,
+    "key": "f9cbf01d79"
+  },
+  {
+    "step": "grade/S19/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "31117717f1"
+  },
+  {
+    "step": "grade/S20/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "13779d0329"
+  },
+  {
+    "step": "grade/S21/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "99ec2fda01"
+  },
+  {
+    "step": "grade/S22/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "706fdbdb08"
+  },
+  {
+    "step": "grade/S23/draft",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "ed723621ac"
+  },
+  {
+    "step": "executive/draft",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 154,
+    "key": "41a9d69527"
+  },
+  {
+    "step": "executive/draft/repair",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 490,
+    "key": "0b2702a57f"
+  },
+  {
+    "step": "executive/grade",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "94ec0ea1f5"
+  },
+  {
+    "step": "themes/batch01",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 152,
+    "key": "6364cf4f6d"
+  },
+  {
+    "step": "themes/batch01/repair",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 256,
+    "key": "2a8ab4ce8a"
+  },
+  {
+    "step": "themes/batch02",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 351,
+    "key": "225373e587"
+  },
+  {
+    "step": "themes/batch03",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 261,
+    "key": "6abe1b3ea4"
+  },
+  {
+    "step": "themes/batch04",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 292,
+    "key": "802cb15cf4"
+  },
+  {
+    "step": "themes/batch05",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 373,
+    "key": "c3d56b7ba5"
+  },
+  {
+    "step": "themes/batch06",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 308,
+    "key": "c89ccec2c1"
+  },
+  {
+    "step": "themes/batch07",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 340,
+    "key": "cee508ae34"
+  },
+  {
+    "step": "themes/batch08",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 294,
+    "key": "a5dfa8ef4f"
+  },
+  {
+    "step": "themes/batch09",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 354,
+    "key": "f8ff324366"
+  },
+  {
+    "step": "themes/batch10",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 305,
+    "key": "8cfadf11cc"
+  },
+  {
+    "step": "themes/batch11",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 342,
+    "key": "8ed68d2f8e"
+  },
+  {
+    "step": "themes/batch12",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 238,
+    "key": "528f6297da"
+  },
+  {
+    "step": "themes/batch13",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 317,
+    "key": "f47112ba80"
+  },
+  {
+    "step": "themes/batch14",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 289,
+    "key": "b02af7bab8"
+  },
+  {
+    "step": "themes/batch15",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 306,
+    "key": "17296b7942"
+  },
+  {
+    "step": "insights/round1",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 153,
+    "key": "ee811763ae"
+  },
+  {
+    "step": "insights/round1/repair",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 812,
+    "key": "893d828b01"
+  },
+  {
+    "step": "insights/check/round1",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 625,
+    "key": "5d18504dd2"
+  },
+  {
+    "step": "indicators",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 595,
+    "key": "22dab2bd8e"
+  },
+  {
+    "step": "indicator_audit",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 453,
+    "key": "2fae0a6c8e"
+  },
+  {
+    "step": "series/llm",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 792,
+    "key": "8e93cf64ff"
+  },
+  {
+    "step": "rag/single/Q1",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 141,
+    "key": "d312869e58"
+  },
+  {
+    "step": "rag_grade/single/Q1",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 79,
+    "key": "ed39619f94"
+  },
+  {
+    "step": "rag/single/Q2",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 74,
+    "key": "d9500ac014"
+  },
+  {
+    "step": "rag_grade/single/Q2",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 40,
+    "key": "10500a53cb"
+  },
+  {
+    "step": "rag/single/Q3",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 112,
+    "key": "a033e19f41"
+  },
+  {
+    "step": "rag_grade/single/Q3",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 56,
+    "key": "fc1a5f81a8"
+  },
+  {
+    "step": "rag/single/Q4",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 153,
+    "key": "583c6da706"
+  },
+  {
+    "step": "rag_grade/single/Q4",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 45,
+    "key": "55e9b742a0"
+  },
+  {
+    "step": "rag/single/Q5",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 133,
+    "key": "dbcec79750"
+  },
+  {
+    "step": "rag_grade/single/Q5",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 44,
+    "key": "d3a9779624"
+  },
+  {
+    "step": "rag/single/Q6",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 126,
+    "key": "f306495e3e"
+  },
+  {
+    "step": "rag_grade/single/Q6",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 45,
+    "key": "6fc4a156a8"
+  },
+  {
+    "step": "rag/single/Q7",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 93,
+    "key": "06e28899e7"
+  },
+  {
+    "step": "rag_grade/single/Q7",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 54,
+    "key": "e7d8ea18a9"
+  },
+  {
+    "step": "rag/single/Q8",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 121,
+    "key": "04e9cd63b3"
+  },
+  {
+    "step": "rag_grade/single/Q8",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 44,
+    "key": "c13c123b49"
+  },
+  {
+    "step": "rag/single/Q9",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 107,
+    "key": "e01a0c2714"
+  },
+  {
+    "step": "rag_grade/single/Q9",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 50,
+    "key": "43a2bfce25"
+  },
+  {
+    "step": "rag/single/Q10",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 48,
+    "key": "8b637e9826"
+  },
+  {
+    "step": "rag_grade/single/Q10",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 60,
+    "key": "67767f4be7"
+  },
+  {
+    "step": "rag/multi/Q1",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 149,
+    "key": "4fa28f52a1"
+  },
+  {
+    "step": "rag_grade/multi/Q1",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 48,
+    "key": "e33152adf1"
+  },
+  {
+    "step": "rag/multi/Q2",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 59,
+    "key": "56912321e0"
+  },
+  {
+    "step": "rag_grade/multi/Q2",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 52,
+    "key": "b9cafce11d"
+  },
+  {
+    "step": "rag/multi/Q3",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 149,
+    "key": "c3c4f0fe49"
+  },
+  {
+    "step": "rag_grade/multi/Q3",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 44,
+    "key": "c19b124a01"
+  },
+  {
+    "step": "rag/multi/Q4",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 146,
+    "key": "705d30eb83"
+  },
+  {
+    "step": "rag_grade/multi/Q4",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 36,
+    "key": "9c2a2c055f"
+  },
+  {
+    "step": "rag/multi/Q5",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 125,
+    "key": "dabff5007c"
+  },
+  {
+    "step": "rag_grade/multi/Q5",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 54,
+    "key": "fafb19d47c"
+  },
+  {
+    "step": "rag/multi/Q6",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 144,
+    "key": "18aa2f339b"
+  },
+  {
+    "step": "rag_grade/multi/Q6",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 55,
+    "key": "d31fdbcfb3"
+  },
+  {
+    "step": "rag/multi/Q7",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 129,
+    "key": "929012bbbe"
+  },
+  {
+    "step": "rag/multi/Q7/repair",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 129,
+    "key": "80b48ed893"
+  },
+  {
+    "step": "rag_grade/multi/Q7",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 55,
+    "key": "5983e76209"
+  },
+  {
+    "step": "rag/multi/Q8",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 133,
+    "key": "f282fbfc9a"
+  },
+  {
+    "step": "rag_grade/multi/Q8",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 54,
+    "key": "09517bcd89"
+  },
+  {
+    "step": "rag/multi/Q9",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 118,
+    "key": "da67455a35"
+  },
+  {
+    "step": "rag_grade/multi/Q9",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 48,
+    "key": "876d28bad0"
+  },
+  {
+    "step": "rag/multi/Q10",
+    "role": "writer",
+    "model": "gemini-3.7-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 39,
+    "key": "08b9a1a27e"
+  },
+  {
+    "step": "rag_grade/multi/Q10",
+    "role": "judge",
+    "model": "gemini-3.6-flash",
+    "source": "cache",
+    "seconds": 0.0,
+    "tokens": 51,
+    "key": "8c25b1f03f"
+  }
+]

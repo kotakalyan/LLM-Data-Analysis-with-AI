@@ -1,0 +1,106 @@
+{
+  "totals": {
+    "mode": "replay",
+    "calls": 120,
+    "live": 0,
+    "cached": 120,
+    "repairs": 4,
+    "live_seconds": 0.0,
+    "output_tokens": 18291
+  },
+  "pdf": "data/philippines_cr25333.pdf",
+  "pdf_sha256": "e65a1158a09333e7dd7c43dfdadc8a3bfc7f279a66545d302993ff56086145d4",
+  "settings": {
+    "pdf": "data/philippines_cr25333.pdf",
+    "country": "Philippines",
+    "label": "IMF Country Report No. 25/333, 2025 Article IV",
+    "writer": "gemini-3.7-flash",
+    "judge": "gemini-3.6-flash",
+    "temperature": 0.1,
+    "max_output_tokens": 4096,
+    "retries": 5,
+    "mode": "replay",
+    "cache_dir": "cache/replies",
+    "out_dir": "artefacts",
+    "embedder": "sentence-transformers/multi-qa-distilbert-cos-v1",
+    "chunk_tokens": 380,
+    "overlap_tokens": 75,
+    "summary_words": 100,
+    "top_k": 5,
+    "rerank_pool": 20,
+    "lexical_weight": 0.2
+  },
+  "prompts": {
+    "section_summary": {
+      "system": "You write short briefing notes on IMF Article IV staff reports for a finance ministry reader.\nYou only use facts that are in the text you are given and you copy numbers exactly as printed.",
+      "user": "Summarise section $sid, \"$title\" (PDF pages $pages), of the IMF report on the Philippines.\nRules:\n- At most $limit words of plain prose, no bullet points, no heading.\n- Start with the main finding or recommendation, then the key figures with their year and unit.\n- Keep the IMF's own judgement words, for example \"appropriate\", \"moderate\", \"tilted to the downside\".\n- If the section is mostly a table or a set of charts, say what it reports and give the two or three most important numbers.\n- In figures_used, list every number you used exactly as it is written in the text.\n\nSECTION TEXT\n$text"
+    },
+    "summary_grade": {
+      "system": "You check summaries of IMF report sections against their source text. You are strict: a number that is\nnot in the source, or a claim the source does not make, is an error even if it sounds right.",
+      "user": "Grade the SUMMARY against the SOURCE on three scales from 1 (poor) to 5 (excellent).\nconsistency: the summary never contradicts the source.\ncompleteness: the main message, the key figures and any policy advice are present.\nfactual_alignment: every number, date and claim in the summary is in the source.\nList each problem as one short sentence that quotes the wrong or missing part. Use an empty list if there is none.\n\nSOURCE: $title\n$text\n\nSUMMARY\n$summary"
+    },
+    "summary_rewrite": {
+      "system": "You write short briefing notes on IMF Article IV staff reports for a finance ministry reader.\nYou only use facts that are in the text you are given and you copy numbers exactly as printed.",
+      "user": "A reviewer checked your summary of \"$title\". Write a new summary of at most $limit words that fixes every\nproblem below. Use only the source text and copy numbers exactly.\nReviewer scores: consistency $c, completeness $m, factual alignment $f.\nProblems found by the reviewer:\n$problems\nNumbers in your draft that do not appear in the source: $missing\n\nYOUR DRAFT\n$draft\n\nSOURCE TEXT\n$text"
+    },
+    "executive_summary": {
+      "system": "You are an IMF desk economist writing the opening bullets of a briefing on financial stability and risks.\nYou use only the material you are given.",
+      "user": "Write $low to $high bullet points that sum up the financial stability findings and the risk assessment of the whole report.\nEach bullet has one or two sentences, gives at least one figure with its year, and lists the ids of the sections it rests on.\nCover: growth and inflation outlook (use the revised numbers if the material revises them), the balance of risks,\nthe fiscal position and public debt, monetary policy, the banking system and financial stability risks, and the external position.\n\nSECTION SUMMARIES\n$summaries\n\nKEY ISSUES, STAFF APPRAISAL AND STAFF STATEMENT (full text)\n$core"
+    },
+    "executive_grade": {
+      "system": "You check summaries of IMF report sections against their source text. You are strict: a number that is\nnot in the source, or a claim the source does not make, is an error even if it sounds right.",
+      "user": "Grade these executive summary BULLETS against the SOURCE material on three scales from 1 to 5:\nconsistency (no contradiction), completeness (growth, inflation, risks, fiscal, monetary, banking and external\nposition are all covered), factual_alignment (every figure and claim is in the source).\nList each problem as one short sentence. Use an empty list if there is none.\n\nSOURCE\n$source\n\nBULLETS\n$bullets"
+    },
+    "chunk_themes": {
+      "system": "You sort passages of an IMF staff report into financial stability themes.",
+      "user": "For each passage give the themes it discusses in substance. A passing mention of a word is not enough.\nA passage can have no theme, one theme or several.\nThemes (use these keys):\n$themes\n\nPASSAGES\n$passages"
+    },
+    "insights": {
+      "system": "You read IMF staff reports and pull out findings that you can back with an exact quote.",
+      "user": "From the report pages below, list $n strengths or growth drivers of the Philippine economy and $n vulnerabilities\nor challenges. $extra\nEach item needs:\n- point: the finding in your own words, at most 15 words;\n- quote: 8 to 30 words copied exactly from one page;\n- pdf_page: the number in the [PDF page N] tag of the page the quote comes from.\nDo not use the same fact twice, and do not put the same issue in both lists.\n\n$pages"
+    },
+    "insight_check": {
+      "system": "You verify that quotes from an IMF report support the findings attached to them.",
+      "user": "For each item, read the page text given for it. supported is true only if the quote is on that page and it\nbacks the point. right_list is true if the point really is a $kinds as labelled. Give a one-line reason.\n\n$items"
+    },
+    "indicators": {
+      "system": "You extract macro-financial indicators from IMF staff reports into JSON. You never guess: a value must be\nprinted in the pages you are given, otherwise it is null and you say why.",
+      "user": "Fill in the indicators for $country from the pages below. Definitions:\n$definitions\n\nFor every field give one evidence entry: the value (a plain number in percent, for example 4.75, not 0.0475),\nthe period it refers to (for example \"2026 projection\" or \"end-June 2025\"), the PDF page from the [PDF page N] tag,\nand a short quote copied from that page that contains the number. If the pages do not print the indicator,\nset the value to null and explain in null_reason why it is missing. The evidence value must equal the value in \"values\".\n\n$pages"
+    },
+    "indicator_audit": {
+      "system": "You audit numbers extracted from an IMF staff report. Check the definition and the period as well as the\ndigits: a correct number for the wrong indicator or the wrong year is not supported.",
+      "user": "Label each extracted field.\nSUPPORTED: the pages print this value for this indicator as defined.\nWRONG_VALUE: the indicator is right but the value is not what the pages print.\nWRONG_DEFINITION: the value belongs to a different indicator, measure or period than the definition asks for.\nCORRECT_NULL: the value is null and the pages indeed do not print this indicator.\nMISSED: the value is null but the pages do print it.\n\nDEFINITIONS\n$definitions\n\nEXTRACTED\n$extracted\n\nPAGES\n$pages"
+    },
+    "trend_series": {
+      "system": "You read statistical tables in IMF reports and copy numbers exactly.",
+      "user": "From the table pages below, list the time series that would be most useful for trend charts of growth,\ninflation, interest rates, credit, public debt and bank soundness. For each give the row name as printed,\nthe unit, the PDF page, and every year with its value. Use year labels as printed (for example 2025Q2 for \"2025: Q2\").\n\n$pages"
+    },
+    "rag_answer": {
+      "system": "You answer questions about an IMF staff report on the Philippines using only the context passages you are given.\nIf the passages do not contain the answer, you say so instead of guessing.",
+      "user": "QUESTION\n$question\n\nCONTEXT\n$context\n\nAnswer in at most 120 words and keep the numbers exactly as written in the context. In cited_chunks list the ids\nof the passages you used. If the context does not answer the question, set answerable to false and say so."
+    },
+    "rag_grade": {
+      "system": "You grade answers produced by a retrieval system against the context it was given.",
+      "user": "Score the ANSWER from 1 (poor) to 5 (excellent):\nfaithfulness: every claim in the answer is supported by the context;\ncompleteness: the answer covers every part of the question that the context can answer;\nrelevance: the answer addresses the question that was asked.\nIf the context cannot answer the question, a clear statement that it cannot scores 5 on all three.\nAdd a one-sentence note.\n\nQUESTION\n$question\n\nCONTEXT\n$context\n\nANSWER\n$answer"
+    }
+  },
+  "artefacts": [
+    "cleaning",
+    "sections",
+    "chunks",
+    "section_summaries",
+    "executive_summary",
+    "themes",
+    "insights",
+    "indicators",
+    "indicator_evidence",
+    "indicator_fallbacks",
+    "indicator_audit",
+    "timeseries",
+    "rag_eval",
+    "extension_multiquery",
+    "long_tables",
+    "call_log",
+    "run_record"
+  ]
+}

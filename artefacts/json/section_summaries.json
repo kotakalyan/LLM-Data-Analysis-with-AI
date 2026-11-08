@@ -1,0 +1,593 @@
+[
+  {
+    "sid": "S01",
+    "title": "Press release",
+    "pages": [
+      2,
+      5
+    ],
+    "summary": "The IMF recommends implementing gradual fiscal consolidation over the medium term and maintaining an accommodative monetary policy stance amid growth risks tilted to the downside. Real GDP growth is expected to slow to 5.1 percent in 2025 before picking up moderately to 5.6 percent in 2026, while potential growth is estimated around 6.0 percent over the medium term. Inflation is projected to average 1.7 percent in 2025 and 2.8 percent in 2026, while the current account deficit reaches 3.8 percent of GDP in 2025.",
+    "words": 84,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 11,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S02",
+    "title": "Key issues and staff report front matter",
+    "pages": [
+      6,
+      8
+    ],
+    "summary": "An accommodative monetary policy stance and a more gradual pace of fiscal consolidation are appropriate given a weaker growth outlook, benign inflation, and some fiscal space. Growth is expected to remain robust but below potential, with risks tilted to the downside from rising global trade barriers and policy uncertainty. Overall systemic risk is moderate and broadly unchanged. Continued vigilance is warranted over real estate, consumer credit, and manufacturing vulnerabilities. No quantitative macroeconomic figures are reported in this 2025 report section.",
+    "words": 80,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [
+      "The summary omits key structural policy recommendations, such as \"addressing gaps in connectivity infrastructure, energy, and climate resilience, easing constraints on doing business, enhancing trade integration, tackling corruption, and strengthening governance and human capital.\""
+    ],
+    "numbers_in_summary": 1,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S03",
+    "title": "Context",
+    "pages": [
+      9,
+      9
+    ],
+    "summary": "The Philippine economy has achieved successful disinflation and resilient growth, though sustaining robust and inclusive growth requires prioritizing private investment, economic diversification, and resilience. Inflation declined within target in 2024, while the poverty rate remained high at 15.5 percent in 2023 despite trending down. Policies have been broadly in line with advice, yet reform implementation has been slow. With investment below pre-pandemic trends, the authorities have appropriately prioritized critical infrastructure projects alongside legislative reforms to support private investment.",
+    "words": 78,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 3,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S04",
+    "title": "Recent economic developments",
+    "pages": [
+      10,
+      12
+    ],
+    "summary": "Growth has moderated and the external position in 2024 is assessed to be weaker than the level implied by fundamentals and desirable policies. Growth slowed from 5.7 percent in 2024 to 5.4 percent yoy in 2025 H1, while unemployment averaged 4.1 percent in 2025Q1-Q3. Headline inflation declined from 6.0 percent in 2023 to 3.2 percent in 2024. Financial conditions are still moderately tight despite a 175-bps policy rate reduction since August 2024, and the current account deficit widened to 4.0 percent of GDP in 2024.",
+    "words": 85,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [
+      "The summary omits the discussion on negative spillovers from higher global trade barriers and U.S. tariffs."
+    ],
+    "numbers_in_summary": 14,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S05",
+    "title": "Outlook and risks",
+    "pages": [
+      13,
+      15
+    ],
+    "summary": "Growth is projected to slow to 5.4 percent in 2025 before rising to 5.8 percent in 2026, approaching potential of around 6 percent. Risks to growth are tilted to the downside, while inflation risks are broadly balanced. Inflation is projected to average 1.7 percent in 2025 before increasing toward the midpoint of the BSP's 2-4 percent target band, with core inflation reaching 2.6 percent in 2026. The current account deficit is expected to decline to 3.8 percent of GDP in 2025.",
+    "words": 81,
+    "rewritten": true,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 4,
+      "completeness": 4,
+      "factual_alignment": 4
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "judge_problems": [
+      "The summary states that 2025 average inflation of 1.7 percent is 'within the 2-4 percent target band', whereas 1.7 percent is below the 2 percent lower bound."
+    ],
+    "numbers_in_summary": 10,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S06",
+    "title": "A. Fiscal Policies",
+    "pages": [
+      15,
+      20
+    ],
+    "summary": "The IMF recommends gradual fiscal consolidation underpinned by tax mobilization over the medium term, judging the MTFF consolidation broadly appropriate to reinforce fiscal space amid low risk of sovereign stress. The headline deficit declined by 0.4 ppt of GDP to 5.7 percent in 2024, while national government debt increased modestly to 60.7 percent of GDP. For 2025, pro-cyclical tightening envisions reducing the deficit to 5.5 percent of GDP. The 2026 deficit target is revised to 5.3 percent of GDP, with the MTFF targeting 3.1 percent by 2030.",
+    "words": 87,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 10,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S07",
+    "title": "B. Monetary and Exchange Rate Policies",
+    "pages": [
+      21,
+      23
+    ],
+    "summary": "The BSP is expected to further reduce the policy rate amid a favorable inflation outlook and elevated downside risks to growth, making the projected accommodative stance appropriate. Staff's baseline incorporates another 50bps reduction by 2026 Q1, alongside inflation returning to the midpoint of the target band in 2026 and an emerging negative output gap in 2025. Climate shocks increase inflation by up to 0.6 percentage points (annualized) in a typical year. The exchange rate has appropriately functioned as a shock absorber.",
+    "words": 81,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [
+      "The summary omits paragraph 25's recommendation regarding reforms to enhance capital markets and monetary policy transmission."
+    ],
+    "numbers_in_summary": 4,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S08",
+    "title": "C. Financial Sector Policies",
+    "pages": [
+      23,
+      26
+    ],
+    "summary": "Overall systemic financial risks remain moderate, with the banking system well-capitalized, liquid, and profitable, though enhancing the macroprudential policy framework should remain a priority. The non-performing loan ratio was contained at 3.3 percent, and the NPL coverage ratio was 95.4 percent as of end-June 2025. The residential real estate NPL ratio was 6.4 percent at end-June 2025, while manufacturing and wholesale/retail loans accounted for about 19 percent of domestic loans at end-August 2025. In 2025, the Philippines successfully exited the FATF grey list.",
+    "words": 83,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 8,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S09",
+    "title": "D. Downside Risks and Contingent Policies",
+    "pages": [
+      27,
+      28
+    ],
+    "summary": "Given heightened macroeconomic uncertainty, the authorities should prepare for potential adverse macroeconomic shocks. Under staff's illustrative downside scenario, combined shocks would have a significant impact, reducing the output gap at its peak by 1.5 percent relative to the baseline. With a small negative impact on inflation, there is room for monetary policy to be more accommodative. Fiscal automatic stabilizers should operate alongside targeted support, with fiscal consolidation reinitiated once shock effects subside. The exchange rate should act as a shock absorber, with FXI used on a temporary basis.",
+    "words": 88,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 1,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S10",
+    "title": "E. Structural Policies",
+    "pages": [
+      28,
+      31
+    ],
+    "summary": "Investment and governance reforms are essential to accelerate inclusive growth. Priorities include building climate-resilient infrastructure, harnessing renewable energy, and investing in education and social protection to navigate artificial intelligence risks. Staff recommend deeper trade integration, including CPTPP accession and reducing non-tariff barriers. The authorities agreed on boosting private investment and governance. They highlighted ongoing workforce upskilling, plans to finalize updated Nationally Determined Contributions this year, and eagerness to fast-track CPTPP accession while concluding trade agreements with the European Union and Chile.",
+    "words": 81,
+    "rewritten": true,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 3,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "judge_problems": [
+      "The summary omits significant policy areas discussed in the source, including trade integration, climate resilience, skills/education adaptation for AI, and the authorities' views."
+    ],
+    "numbers_in_summary": 0,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S11",
+    "title": "Staff appraisal",
+    "pages": [
+      31,
+      32
+    ],
+    "summary": "Growth is expected to moderate in 2025 before picking up in 2026, with risks tilted to the downside. Inflation is projected to rise to 2.8 percent in 2026. A more gradual pace of fiscal consolidation is appropriate, alongside a broadly neutral fiscal stance in 2026. Accommodative monetary policy is appropriate, and further policy rate cuts are warranted. Overall systemic financial risks remain moderate. The 2024 external sector position is assessed to be weaker than the level implied by fundamentals.",
+    "words": 79,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 6,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S12",
+    "title": "Figures 1-10",
+    "pages": [
+      33,
+      42
+    ],
+    "summary": "This section reports macroeconomic, financial, social, and structural indicators through ten figures. The main finding is that while growth remains relatively high driven by services and inflation returned to target, the external deficit widened and corporate loans remain concentrated. Foreign reserves increased slightly to US$106 billion at end-2024, well above adequacy metrics. The BSP reduced the reserve requirement ratio to 5 percent in March 2025. Corporate loans account for over 80 percent of total loans, while the Philippines contributes 0.02 percent of global GHG emissions.",
+    "words": 85,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 5,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S13",
+    "title": "Statistical tables 1-8",
+    "pages": [
+      43,
+      50
+    ],
+    "summary": "This section reports key macroeconomic, fiscal, monetary, financial soundness, and external sector indicators and projections for the Philippines. Real GDP growth is 5.5 percent in 2023, projected at 5.7 percent in 2024 and 5.4 percent in 2025. Consumer price inflation declines from 6.0 percent in 2023 to 3.2 percent in 2024. The national government overall balance is -6.1 percent of GDP in 2023 and projected at -5.7 percent in 2024, while national government gross debt shifts from 60.1 percent of GDP to 60.7 percent.",
+    "words": 84,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 16,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S14",
+    "title": "Annex I. Implementation of Main Recommendations of the 2024 Article IV Consultation",
+    "pages": [
+      51,
+      52
+    ],
+    "summary": "Since the 2024 Article IV Consultation, the BSP lowered its policy rate by 100 bps to 4.75 percent. In the financial sector, the Philippines exited the FATF grey list in February 2025, and the Monetary Board approved the LOLR Framework principles in June 2025 while updating the framework. The updated MTFF targets fiscal deficits of 4.3 percent of GDP in 2028 and 3.1 percent for 2030. Key structural legislation progressed, including the CREATE MORE Act and New Government Procurement Act, alongside targeting a 5-6 percent infrastructure disbursements-to-GDP ratio.",
+    "words": 88,
+    "rewritten": true,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 3,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [
+      "The summary mentions financial and structural policy areas in the introduction but omits major progress points such as exiting the FATF grey list, financial stability/LOLR framework updates, and key structural legislation."
+    ],
+    "numbers_in_summary": 9,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S15",
+    "title": "Annex II. External Sector Assessment",
+    "pages": [
+      53,
+      55
+    ],
+    "summary": "The Philippines' external position in 2024 was weaker than the level implied by medium-term fundamentals and desirable policies, although it remains sustainable with relatively low vulnerabilities and adequate reserves. The current account deficit widened to 4.0 percent of GDP in 2024 from 2.8 percent of GDP in 2023, against a CA norm of -0.9 percent of GDP. Staff estimates a CA gap of -2.8 percent of GDP, implying a real effective exchange rate gap of 9.0 percent, while gross international reserves reached 23.0 percent of GDP.",
+    "words": 86,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [
+      "The summary omits policy advice regarding exchange rate flexibility, fiscal consolidation, and productivity-enhancing structural policies."
+    ],
+    "numbers_in_summary": 9,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S16",
+    "title": "Annex III. Risk Assessment Matrix",
+    "pages": [
+      56,
+      57
+    ],
+    "summary": "To address external and domestic risks, staff recommends using available fiscal space effectively for targeted support, keeping the exchange rate flexible though foreign exchange intervention may be appropriate under certain circumstances, and calibrating monetary policy. The matrix reports potential shocks to the baseline, defining high likelihood as a probability between 30 and 50 percent, and low as below 10 percent. High-likelihood risks with high expected impact include escalating trade measures and natural disasters, while commodity price volatility carries medium impact.",
+    "words": 80,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 3,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S17",
+    "title": "Annex IV. Sovereign Risk and Debt Sustainability Assessment",
+    "pages": [
+      58,
+      65
+    ],
+    "summary": "The Philippines faces a \"low\" overall risk of sovereign stress, with \"manageable\" medium-term risks and \"moderate\" long-term risks. Public debt is expected to gradually decline to about 60 percent of GDP over the medium-term. The annex details sovereign stress risk, debt coverage, and stress tests across baseline scenarios. Total consolidated general government debt was 53.9 percent of GDP at end-2024, about 6.8 percentage points of GDP lower than national government debt, while debt held by the Bond Sinking Fund was 2.8 percent of GDP.",
+    "words": 84,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 5,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S18",
+    "title": "Annex V. Integration of Capacity Development and Surveillance",
+    "pages": [
+      66,
+      69
+    ],
+    "summary": "IMF capacity development focuses on enhancing the Philippines' capacity to manage macroeconomic and financial risks and rebuild policy buffers. Bangko Sentral ng Pilipinas is progressing in implementing 2021 FSAP recommendations. With public debt exceeding the indicative threshold of 60 percent of GDP from the 2022 Medium-term Fiscal Framework, revenue mobilization is needed. In debt management, the Bureau of Treasury published its first Medium-Term Debt Strategy (2025-2028) in 2025. In 2025, the Philippines also exited the FATF grey list ahead of the 2027 evaluation.",
+    "words": 83,
+    "rewritten": true,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 4,
+      "completeness": 4,
+      "factual_alignment": 4
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 3,
+      "factual_alignment": 5
+    },
+    "judge_problems": [
+      "The summary states that 'Following progress implementing recommendations from the 2021 FSAP, the Philippines exited the FATF grey list', which connects the FATF exit to FSAP recommendations not linked in the source."
+    ],
+    "numbers_in_summary": 8,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S19",
+    "title": "Annex VI. Data Issues",
+    "pages": [
+      70,
+      71
+    ],
+    "summary": "Data provision is broadly adequate for surveillance with some shortcomings in real, external sector, fiscal, and monetary statistics. The median data adequacy assessment rating across sectors is B, with government finance statistics downgraded from a mechanical A to B due to the limited coverage of general government and barangays. Real sector statistics have limited coverage of the informal economy, with the latest survey conducted in 2008, while plans are underway to rebase GDP to 2023 in the coming years.",
+    "words": 79,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 2,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S20",
+    "title": "Annex VII. Implementation of FSAP Recommendations",
+    "pages": [
+      72,
+      76
+    ],
+    "summary": "This annex reports authorities' updates on key FSAP recommendations across macroprudential policy, supervision, AML/CFT, crisis management, and climate risks. In macroprudential oversight, bank capital adequacy ratios stood at 16.2 percent solo and 16.6 percent consolidated as of March 2025, well above the BSP and BIS minimum thresholds of 10 and 8 percent, respectively. For conglomerate supervision, supervisory colleges have been conducted for four of the nine identified financial conglomerates. Additionally, completion of amendments to the prompt corrective action framework is targeted by Q2 2026.",
+    "words": 84,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 5,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S21",
+    "title": "Informational annex",
+    "pages": [
+      77,
+      80
+    ],
+    "summary": "This section reports the Philippines' Fund relations as of October 2025, detailing its financial position and exchange rate arrangements. As of 2025, the Philippines has a quota of 2,042.90 SDR Millions, IMF holdings of currency at 1,506.93 SDR Millions (73.67 percent of quota), and a reserve tranche position of 536.07 SDR Millions (26.24 percent of quota). The de jure exchange rate arrangement is classified as free floating, while the de facto arrangement is classified as floating.",
+    "words": 76,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 7,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S22",
+    "title": "Statement by the IMF Staff Representative",
+    "pages": [
+      81,
+      81
+    ],
+    "summary": "Staff's policy advice remains unchanged, with an accommodative monetary policy stance remaining appropriate and a more gradual pace of fiscal consolidation recommended. Real GDP growth for 2025Q3 slowed sharper than expected to 4.0 percent year-on-year, below staff's 4.7 percent projection, with gross fixed capital formation growing by 0.1 percent year-over-year amid severe typhoons. Consequently, staff revised growth projections for 2025 down from 5.4 to 5.1 percent, and for 2026 from 5.8 to 5.6 percent, with the revised outlook subject to downside risks.",
+    "words": 82,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 9,
+    "numbers_not_in_source": []
+  },
+  {
+    "sid": "S23",
+    "title": "Statement by the Executive Director",
+    "pages": [
+      82,
+      85
+    ],
+    "summary": "The Philippine authorities broadly agree with staff's assessment, noting strong macroeconomic fundamentals and room for monetary policy to be accommodative amid a temporary slowdown. GDP expanded by 5.0 percent in the first nine months of 2025, while inflation averaged 1.7 percent in January to October 2025. The fiscal deficit stood at ₱1.1 trillion as of September 2025 and is targeted to narrow from 5.5 percent of GDP in 2025 to 4.3 percent by 2028. Public debt-to-GDP is projected to decline from 60.7 percent in 2024 to 58.0 percent by 2030.",
+    "words": 90,
+    "rewritten": false,
+    "trimmed_by_code": false,
+    "draft_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "final_scores": {
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5
+    },
+    "judge_problems": [],
+    "numbers_in_summary": 14,
+    "numbers_not_in_source": []
+  }
+]

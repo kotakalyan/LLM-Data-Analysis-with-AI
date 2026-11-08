@@ -1,0 +1,2212 @@
+{
+  "indicators": [
+    {
+      "country_name": "Philippines",
+      "indicator": "gdp_growth_forecast_pct",
+      "value": 5.6,
+      "hand_check": 5.6
+    },
+    {
+      "country_name": "Philippines",
+      "indicator": "headline_inflation_rate_pct",
+      "value": 1.7,
+      "hand_check": 1.7
+    },
+    {
+      "country_name": "Philippines",
+      "indicator": "central_bank_policy_rate_pct",
+      "value": 4.75,
+      "hand_check": 4.75
+    },
+    {
+      "country_name": "Philippines",
+      "indicator": "non_performing_loan_ratio",
+      "value": 3.3,
+      "hand_check": 3.3
+    },
+    {
+      "country_name": "Philippines",
+      "indicator": "unemployment_rate_pct",
+      "value": 3.9,
+      "hand_check": 3.8
+    },
+    {
+      "country_name": "Philippines",
+      "indicator": "tier_1_capital_ratio",
+      "value": 14.9,
+      "hand_check": 14.9
+    }
+  ],
+  "series": [
+    {
+      "year": "2020",
+      "series": "capital_ratio",
+      "value": 16.3,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2020
+    },
+    {
+      "year": "2021",
+      "series": "capital_ratio",
+      "value": 16.5,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2021
+    },
+    {
+      "year": "2022",
+      "series": "capital_ratio",
+      "value": 15.3,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2022
+    },
+    {
+      "year": "2023",
+      "series": "capital_ratio",
+      "value": 16.3,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "capital_ratio",
+      "value": 15.8,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2023",
+      "series": "core_cpi",
+      "value": 6.6,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "core_cpi",
+      "value": 3.0,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2025",
+      "series": "core_cpi",
+      "value": 2.4,
+      "status": "estimate",
+      "source": "table",
+      "year_num": 2025
+    },
+    {
+      "year": "2026",
+      "series": "core_cpi",
+      "value": 2.6,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2026
+    },
+    {
+      "year": "2027",
+      "series": "core_cpi",
+      "value": 2.8,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2027
+    },
+    {
+      "year": "2028",
+      "series": "core_cpi",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2028
+    },
+    {
+      "year": "2023",
+      "series": "cpi_average",
+      "value": 6.0,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "cpi_average",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2025",
+      "series": "cpi_average",
+      "value": 1.7,
+      "status": "estimate",
+      "source": "table",
+      "year_num": 2025
+    },
+    {
+      "year": "2026",
+      "series": "cpi_average",
+      "value": 2.8,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2026
+    },
+    {
+      "year": "2027",
+      "series": "cpi_average",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2027
+    },
+    {
+      "year": "2028",
+      "series": "cpi_average",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2028
+    },
+    {
+      "year": "2029",
+      "series": "cpi_average",
+      "value": 3.3,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2029
+    },
+    {
+      "year": "2030",
+      "series": "cpi_average",
+      "value": 3.2,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2030
+    },
+    {
+      "year": "2023",
+      "series": "cpi_end_period",
+      "value": 3.9,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "cpi_end_period",
+      "value": 2.9,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2025",
+      "series": "cpi_end_period",
+      "value": 1.7,
+      "status": "estimate",
+      "source": "table",
+      "year_num": 2025
+    },
+    {
+      "year": "2026",
+      "series": "cpi_end_period",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2026
+    },
+    {
+      "year": "2027",
+      "series": "cpi_end_period",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2027
+    },
+    {
+      "year": "2028",
+      "series": "cpi_end_period",
+      "value": 3.0,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2028
+    },
+    {
+      "year": "2023",
+      "series": "current_account",
+      "value": -2.8,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "current_account",
+      "value": -4.0,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2025",
+      "series": "current_account",
+      "value": -3.8,
+      "status": "estimate",
+      "source": "table",
+      "year_num": 2025
+    },
+    {
+      "year": "2026",
+      "series": "current_account",
+      "value": -3.4,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2026
+    },
+    {
+      "year": "2027",
+      "series": "current_account",
+      "value": -3.1,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2027
+    },
+    {
+      "year": "2028",
+      "series": "current_account",
+      "value": -2.9,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2028
+    },
+    {
+      "year": "2023",
+      "series": "ng_debt",
+      "value": 60.1,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "ng_debt",
+      "value": 60.7,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2025",
+      "series": "ng_debt",
+      "value": 62.2,
+      "status": "estimate",
+      "source": "table",
+      "year_num": 2025
+    },
+    {
+      "year": "2026",
+      "series": "ng_debt",
+      "value": 62.7,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2026
+    },
+    {
+      "year": "2027",
+      "series": "ng_debt",
+      "value": 62.5,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2027
+    },
+    {
+      "year": "2028",
+      "series": "ng_debt",
+      "value": 61.8,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2028
+    },
+    {
+      "year": "2029",
+      "series": "ng_debt",
+      "value": 60.7,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2029
+    },
+    {
+      "year": "2030",
+      "series": "ng_debt",
+      "value": 59.6,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2030
+    },
+    {
+      "year": "2020",
+      "series": "npl_ratio",
+      "value": 3.5,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2020
+    },
+    {
+      "year": "2021",
+      "series": "npl_ratio",
+      "value": 4.0,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2021
+    },
+    {
+      "year": "2022",
+      "series": "npl_ratio",
+      "value": 3.1,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2022
+    },
+    {
+      "year": "2023",
+      "series": "npl_ratio",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "npl_ratio",
+      "value": 3.2,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2023",
+      "series": "policy_rate",
+      "value": 6.5,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "policy_rate",
+      "value": 5.8,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2025",
+      "series": "policy_rate",
+      "value": 4.75,
+      "status": "level on October 10",
+      "source": "text",
+      "year_num": 2025
+    },
+    {
+      "year": "2019",
+      "series": "private_credit_growth",
+      "value": 7.8,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2019
+    },
+    {
+      "year": "2020",
+      "series": "private_credit_growth",
+      "value": -0.2,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2020
+    },
+    {
+      "year": "2021",
+      "series": "private_credit_growth",
+      "value": 3.8,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2021
+    },
+    {
+      "year": "2022",
+      "series": "private_credit_growth",
+      "value": 11.1,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2022
+    },
+    {
+      "year": "2023",
+      "series": "private_credit_growth",
+      "value": 9.1,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "private_credit_growth",
+      "value": 12.2,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2025",
+      "series": "private_credit_growth",
+      "value": 10.1,
+      "status": "estimate",
+      "source": "table",
+      "year_num": 2025
+    },
+    {
+      "year": "2026",
+      "series": "private_credit_growth",
+      "value": 8.5,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2026
+    },
+    {
+      "year": "2027",
+      "series": "private_credit_growth",
+      "value": 9.8,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2027
+    },
+    {
+      "year": "2028",
+      "series": "private_credit_growth",
+      "value": 9.7,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2028
+    },
+    {
+      "year": "2020",
+      "series": "re_loan_share",
+      "value": 8.0,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2020
+    },
+    {
+      "year": "2021",
+      "series": "re_loan_share",
+      "value": 8.2,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2021
+    },
+    {
+      "year": "2022",
+      "series": "re_loan_share",
+      "value": 7.8,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2022
+    },
+    {
+      "year": "2023",
+      "series": "re_loan_share",
+      "value": 7.5,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "re_loan_share",
+      "value": 7.4,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2023",
+      "series": "real_gdp_growth",
+      "value": 5.5,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "real_gdp_growth",
+      "value": 5.7,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2025",
+      "series": "real_gdp_growth",
+      "value": 5.4,
+      "status": "estimate",
+      "source": "table",
+      "year_num": 2025
+    },
+    {
+      "year": "2026",
+      "series": "real_gdp_growth",
+      "value": 5.8,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2026
+    },
+    {
+      "year": "2027",
+      "series": "real_gdp_growth",
+      "value": 6.1,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2027
+    },
+    {
+      "year": "2028",
+      "series": "real_gdp_growth",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2028
+    },
+    {
+      "year": "2029",
+      "series": "real_gdp_growth",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2029
+    },
+    {
+      "year": "2030",
+      "series": "real_gdp_growth",
+      "value": 6.0,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2030
+    },
+    {
+      "year": "2020",
+      "series": "tier1_ratio",
+      "value": 15.3,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2020
+    },
+    {
+      "year": "2021",
+      "series": "tier1_ratio",
+      "value": 15.5,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2021
+    },
+    {
+      "year": "2022",
+      "series": "tier1_ratio",
+      "value": 14.4,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2022
+    },
+    {
+      "year": "2023",
+      "series": "tier1_ratio",
+      "value": 15.3,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "tier1_ratio",
+      "value": 14.9,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2023",
+      "series": "unemployment",
+      "value": 4.4,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2023
+    },
+    {
+      "year": "2024",
+      "series": "unemployment",
+      "value": 3.8,
+      "status": "actual",
+      "source": "table",
+      "year_num": 2024
+    },
+    {
+      "year": "2025",
+      "series": "unemployment",
+      "value": 3.9,
+      "status": "estimate",
+      "source": "table",
+      "year_num": 2025
+    },
+    {
+      "year": "2026",
+      "series": "unemployment",
+      "value": 3.9,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2026
+    },
+    {
+      "year": "2027",
+      "series": "unemployment",
+      "value": 3.8,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2027
+    },
+    {
+      "year": "2028",
+      "series": "unemployment",
+      "value": 3.8,
+      "status": "projection",
+      "source": "table",
+      "year_num": 2028
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Inflation & Prices",
+      "method": "lexicon_share",
+      "share": 0.209
+    },
+    {
+      "theme": "Interest Rates & Credit",
+      "method": "lexicon_share",
+      "share": 0.196
+    },
+    {
+      "theme": "Housing & Real Estate",
+      "method": "lexicon_share",
+      "share": 0.071
+    },
+    {
+      "theme": "Banking Capital & Liquidity",
+      "method": "lexicon_share",
+      "share": 0.08
+    },
+    {
+      "theme": "Sovereign Debt",
+      "method": "lexicon_share",
+      "share": 0.143
+    },
+    {
+      "theme": "Labor Market Dynamics",
+      "method": "lexicon_share",
+      "share": 0.071
+    },
+    {
+      "theme": "Systemic Financial Risk",
+      "method": "lexicon_share",
+      "share": 0.23
+    },
+    {
+      "theme": "Inflation & Prices",
+      "method": "llm_share",
+      "share": 0.205
+    },
+    {
+      "theme": "Interest Rates & Credit",
+      "method": "llm_share",
+      "share": 0.189
+    },
+    {
+      "theme": "Housing & Real Estate",
+      "method": "llm_share",
+      "share": 0.061
+    },
+    {
+      "theme": "Banking Capital & Liquidity",
+      "method": "llm_share",
+      "share": 0.159
+    },
+    {
+      "theme": "Sovereign Debt",
+      "method": "llm_share",
+      "share": 0.159
+    },
+    {
+      "theme": "Labor Market Dynamics",
+      "method": "llm_share",
+      "share": 0.068
+    },
+    {
+      "theme": "Systemic Financial Risk",
+      "method": "llm_share",
+      "share": 0.159
+    }
+  ],
+  "summary_scores": [
+    {
+      "sid": "S01",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S02",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S03",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S04",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S05",
+      "stage_axis": "draft|consistency",
+      "score": 4,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S06",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S07",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S08",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S09",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S10",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S11",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S12",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S13",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S14",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S15",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S16",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S17",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S18",
+      "stage_axis": "draft|consistency",
+      "score": 4,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S19",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S20",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S21",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S22",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S23",
+      "stage_axis": "draft|consistency",
+      "score": 5,
+      "stage": "draft",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S01",
+      "stage_axis": "draft|completeness",
+      "score": 5,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S02",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S03",
+      "stage_axis": "draft|completeness",
+      "score": 5,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S04",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S05",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S06",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S07",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S08",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S09",
+      "stage_axis": "draft|completeness",
+      "score": 5,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S10",
+      "stage_axis": "draft|completeness",
+      "score": 3,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S11",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S12",
+      "stage_axis": "draft|completeness",
+      "score": 5,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S13",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S14",
+      "stage_axis": "draft|completeness",
+      "score": 3,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S15",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S16",
+      "stage_axis": "draft|completeness",
+      "score": 5,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S17",
+      "stage_axis": "draft|completeness",
+      "score": 5,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S18",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S19",
+      "stage_axis": "draft|completeness",
+      "score": 5,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S20",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S21",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S22",
+      "stage_axis": "draft|completeness",
+      "score": 5,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S23",
+      "stage_axis": "draft|completeness",
+      "score": 4,
+      "stage": "draft",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S01",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S02",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S03",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S04",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S05",
+      "stage_axis": "draft|factual_alignment",
+      "score": 4,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S06",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S07",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S08",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S09",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S10",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S11",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S12",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S13",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S14",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S15",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S16",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S17",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S18",
+      "stage_axis": "draft|factual_alignment",
+      "score": 4,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S19",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S20",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S21",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S22",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S23",
+      "stage_axis": "draft|factual_alignment",
+      "score": 5,
+      "stage": "draft",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S01",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S02",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S03",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S04",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S05",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S06",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S07",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S08",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S09",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S10",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S11",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S12",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S13",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S14",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S15",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S16",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S17",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S18",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S19",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S20",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S21",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S22",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S23",
+      "stage_axis": "final|consistency",
+      "score": 5,
+      "stage": "final",
+      "axis": "consistency"
+    },
+    {
+      "sid": "S01",
+      "stage_axis": "final|completeness",
+      "score": 5,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S02",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S03",
+      "stage_axis": "final|completeness",
+      "score": 5,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S04",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S05",
+      "stage_axis": "final|completeness",
+      "score": 5,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S06",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S07",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S08",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S09",
+      "stage_axis": "final|completeness",
+      "score": 5,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S10",
+      "stage_axis": "final|completeness",
+      "score": 5,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S11",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S12",
+      "stage_axis": "final|completeness",
+      "score": 5,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S13",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S14",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S15",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S16",
+      "stage_axis": "final|completeness",
+      "score": 5,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S17",
+      "stage_axis": "final|completeness",
+      "score": 5,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S18",
+      "stage_axis": "final|completeness",
+      "score": 3,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S19",
+      "stage_axis": "final|completeness",
+      "score": 5,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S20",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S21",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S22",
+      "stage_axis": "final|completeness",
+      "score": 5,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S23",
+      "stage_axis": "final|completeness",
+      "score": 4,
+      "stage": "final",
+      "axis": "completeness"
+    },
+    {
+      "sid": "S01",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S02",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S03",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S04",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S05",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S06",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S07",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S08",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S09",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S10",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S11",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S12",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S13",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S14",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S15",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S16",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S17",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S18",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S19",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S20",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S21",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S22",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    },
+    {
+      "sid": "S23",
+      "stage_axis": "final|factual_alignment",
+      "score": 5,
+      "stage": "final",
+      "axis": "factual_alignment"
+    }
+  ],
+  "rag_scores": [
+    {
+      "qid": "Q1",
+      "variant": "single",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q2",
+      "variant": "single",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q3",
+      "variant": "single",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q4",
+      "variant": "single",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q5",
+      "variant": "single",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q6",
+      "variant": "single",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q7",
+      "variant": "single",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q8",
+      "variant": "single",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q9",
+      "variant": "single",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q10",
+      "variant": "single",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q1",
+      "variant": "multi",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q2",
+      "variant": "multi",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q3",
+      "variant": "multi",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q4",
+      "variant": "multi",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q5",
+      "variant": "multi",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q6",
+      "variant": "multi",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q7",
+      "variant": "multi",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q8",
+      "variant": "multi",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q9",
+      "variant": "multi",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q10",
+      "variant": "multi",
+      "measure": "faithfulness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q1",
+      "variant": "single",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q2",
+      "variant": "single",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q3",
+      "variant": "single",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q4",
+      "variant": "single",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q5",
+      "variant": "single",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q6",
+      "variant": "single",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q7",
+      "variant": "single",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q8",
+      "variant": "single",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q9",
+      "variant": "single",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q10",
+      "variant": "single",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q1",
+      "variant": "multi",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q2",
+      "variant": "multi",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q3",
+      "variant": "multi",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q4",
+      "variant": "multi",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q5",
+      "variant": "multi",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q6",
+      "variant": "multi",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q7",
+      "variant": "multi",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q8",
+      "variant": "multi",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q9",
+      "variant": "multi",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q10",
+      "variant": "multi",
+      "measure": "completeness",
+      "value": 5.0
+    },
+    {
+      "qid": "Q1",
+      "variant": "single",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q2",
+      "variant": "single",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q3",
+      "variant": "single",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q4",
+      "variant": "single",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q5",
+      "variant": "single",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q6",
+      "variant": "single",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q7",
+      "variant": "single",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q8",
+      "variant": "single",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q9",
+      "variant": "single",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q10",
+      "variant": "single",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q1",
+      "variant": "multi",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q2",
+      "variant": "multi",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q3",
+      "variant": "multi",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q4",
+      "variant": "multi",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q5",
+      "variant": "multi",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q6",
+      "variant": "multi",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q7",
+      "variant": "multi",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q8",
+      "variant": "multi",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q9",
+      "variant": "multi",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q10",
+      "variant": "multi",
+      "measure": "relevance",
+      "value": 5.0
+    },
+    {
+      "qid": "Q1",
+      "variant": "single",
+      "measure": "gold_recall",
+      "value": 0.667
+    },
+    {
+      "qid": "Q2",
+      "variant": "single",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q3",
+      "variant": "single",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q4",
+      "variant": "single",
+      "measure": "gold_recall",
+      "value": 0.333
+    },
+    {
+      "qid": "Q5",
+      "variant": "single",
+      "measure": "gold_recall",
+      "value": 0.6
+    },
+    {
+      "qid": "Q6",
+      "variant": "single",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q7",
+      "variant": "single",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q8",
+      "variant": "single",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q9",
+      "variant": "single",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q10",
+      "variant": "single",
+      "measure": "gold_recall",
+      "value": NaN
+    },
+    {
+      "qid": "Q1",
+      "variant": "multi",
+      "measure": "gold_recall",
+      "value": 0.667
+    },
+    {
+      "qid": "Q2",
+      "variant": "multi",
+      "measure": "gold_recall",
+      "value": 0.667
+    },
+    {
+      "qid": "Q3",
+      "variant": "multi",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q4",
+      "variant": "multi",
+      "measure": "gold_recall",
+      "value": 0.333
+    },
+    {
+      "qid": "Q5",
+      "variant": "multi",
+      "measure": "gold_recall",
+      "value": 0.6
+    },
+    {
+      "qid": "Q6",
+      "variant": "multi",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q7",
+      "variant": "multi",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q8",
+      "variant": "multi",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q9",
+      "variant": "multi",
+      "measure": "gold_recall",
+      "value": 1.0
+    },
+    {
+      "qid": "Q10",
+      "variant": "multi",
+      "measure": "gold_recall",
+      "value": NaN
+    }
+  ]
+}
